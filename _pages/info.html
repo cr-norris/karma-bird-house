@@ -1,0 +1,23 @@
+---
+layout: default
+title: info
+---
+
+<div class="half-row text">
+    <div class="headline">
+        47 Maple Street Burlington Vermont 05401
+    </div>
+</div>
+
+    <div class="directory">
+        {% for company in site.directory %}
+        <div class="directory-listing">
+            <p>{{ company.name }}</p>
+            <p>{{ company.office }}</p>
+        </div>
+        {% endfor %}
+     </div>
+
+<div class="banner">
+    <img src="{{ site.baseurl }}/assets/images/squish.svg">
+</div>

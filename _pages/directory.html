@@ -1,0 +1,15 @@
+---
+layout: default
+title: directory
+---
+
+<div class="full-row">
+    <div class="directory">
+        {% for company in site.directory %}
+        <div class="directory-listing">
+            <p>{{ company.name }}</p>
+            <p>{{ company.office }}</p>
+        </div>
+        {% endfor %}
+     </div>
+</div>
