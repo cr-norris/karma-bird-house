@@ -412,6 +412,10 @@ a.meta:hover {
     padding: 1rem 0;
 }
 
+.nav-logo {
+    padding-left: .75rem !important;
+}
+
 .nav-logo:hover {
     opacity: .25 !important;
     cursor: pointer;
