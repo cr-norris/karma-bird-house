@@ -24,9 +24,9 @@ pagination:
 {% for post in paginator.posts %}
       <li class="col-sm-4 col-xs-12 archive-item">
           <a href="{{ post.url }}">
+              <img class="archive-image" src="{{ post.image }}">
               <div class="meta">{{ post.collection | capitalize }} - {{ post.date | date: '%B, %Y' }}</div>
               <h3 class="archive-title">{{ post.what }}</h3>
-              <img class="archive-image" src="{{ post.image }}">
           </a>
         </li>
 {% endfor %}
