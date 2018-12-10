@@ -1,0 +1,200 @@
+- name: 1% For the Planet
+  website: http://www.onepercentfortheplanet.org/
+  email: info@onepercentfortheplanet.org
+  office: 101
+ 
+- name: 2 Revolutions
+  website: http://www.2revolutions.net/
+  email: info@2revolutions.net
+  office: 202
+  
+- name: 3Q Digital
+  website: http://www.3qdigital.com/
+  email: info@3qdigital.com
+  office: 303 
+  
+- name: Above the Clouds
+  website: https://www.aboveclouds.com/
+  email: info@aboveclouds.com
+  office: 103 
+  
+- name: Alder
+  website: https://www.alder.world/
+  email: hello@alder.studio
+  office: 224
+  
+- name: Booth Brokerage, llc.
+  website: http://www.boothbrokerage.com/
+  email: rbooth@boothbrokerage.com
+  office: 204
+
+- name: Clutch Creative Co.
+  website: www.clutchcreativeco.com
+  office: 305
+  
+- name: Claudia Renchy Morton
+  email: claudiarenchymorton@gmail.com
+  office: 106
+
+- name: Deborah Lashman, P.C. Law Firm
+  office: 201
+
+- name: Elastic
+  website: http://elasticstudio.net/
+  email: info@elasticstudio.net
+  office: 107
+
+- name: Envision Pharma Group, Karen Spach
+  office: 107
+
+- name: Erika Senft Miller
+  website: http://www.erikasenftmiller.com/
+  email: info@elasticstudio.net
+  office: 208
+  
+- name: Haiti Cardiac Alliance
+  website: http://www.haiticardiac.org/
+  office: 008
+
+- name: Homer Horowitz Photography 
+  website: http://www.homerhorowitz.com/
+  email: homerhorowitz@gmail.com
+  office: 008
+
+- name: Imaging the World
+  website: http://www.imagingtheworld.org/
+  office: 008
+
+- name: Inner Source Massage + Bodywork
+  website: http://www.innersourcevt.com/
+  office: 008
+  
+- name: Inventory Technology Partners
+  website: http://www.dearsystems.com/
+  office: 009
+  
+- name: Iskra Print Collective
+  website: http://www.iskraprint.com/
+  office: 009
+  image: /assets/images/iskra.jpg
+  description: A nonprofit community space dedicated to the practice, understanding, and appreciation of the printmaking arts.
+  order: 2
+  
+- name: Kria
+  website: http://www.kriagroup.com/
+  email: bill@kriagroup.com
+  office: 009  
+
+- name: Locus Energy
+  website: http://www.locusenergy.com/
+  office: 009
+  
+- name: Maglianero Café
+  website: http://www.maglianero.com/
+  office: 009
+  image: /assets/images/maglianero.jpg
+  description: A nonprofit community space dedicated to the practice, understanding, and appreciation of the printmaking arts.
+  order: 1
+  
+- name: Mana Threads
+  website: http://www.manathreads.com/
+  office: 009
+  
+- name: Matrix Marketing Group
+  website: http://www.matrixmarketinggroup.com/
+  office: 009
+  
+- name: Mark Wennberg, Consulting
+  website: http://www.communityreentry.net/
+  office: 009
+  
+- name: Mr. Delivery
+  website: http://www.mrdelivery.com/
+  office: 009
+  
+- name: Nest Pretty Things
+  website: http://www.nestprettythings.com/
+  office: 009
+  
+- name: NRonen Schechner
+  website: http://www.ronenschechner.com/
+  office: 009
+
+- name: Nextcapital
+  website: http://www.nextcapital.com/
+  office: 009
+  
+- name: Oxbow
+  website: http://www.oxbow.co/
+  office: 009
+  
+- name: Pwnie Express
+  website: http://www.pwnieexpress.com/
+  office: 009
+  
+- name: Renoun
+  website: http://www.renoun.com/
+  office: 009
+  
+- name: Rules of Go
+  website: http://www.rulesofgo.com/
+  office: 009
+  
+- name: SMP, Inc.
+  website: http://www.smp-corp.com/
+  office: 009
+  
+- name: Solidarity of Unbridled Labour
+  website: http://solidarityofunbridledlabour.com/
+  office: 009
+  
+- name: Solid Threads / Sneaky Boutique / boo-tee-kee/
+  website: http://www.solidthreads.com/
+  email: service@solidthreads.com
+  office: 009
+  
+- name: Southern Explorations
+  website: http://www.southernexplorations.com/
+  email: info@southernexplorations.com
+  office: 009
+
+- name: Strategies for College
+  website: http://www.strategiesforcollege.com/
+  email: info@southernexplorations.com
+  office: 009
+  
+- name: Struktur Architects
+  website: http://www.strukturvt.com/
+  email: info@strukturvt.com
+  office: 009
+  
+- name: Terry Bicycles
+  website: http://www.terrybicycles.com/
+  email: info@strukturvt.com
+  office: 009
+  
+- name: Triptych Journey
+  website: http://www.triptychjourney.org/
+  email: info@strukturvt.com
+  office: 009
+  
+- name: Water’s Edge Psychotherapy and Wellness Center
+  website: http://www.watersedgetherapyvt.com/
+  office: 009
+  
+- name: We Norwegians
+  website: http://www.wenorwegians.com/
+  email: info@strukturvt.com
+  office: 009
+  
+- name: Wenterra Projects
+  website: http://www.golden-compound.com/
+  office: 009
+  
+- name: Wylie Sofia Garcia
+  website: http://www.wyliegarcia.com/
+  office: 009
+  
+- name: Young Writers Project
+  website: https://youngwritersproject.org
+  office: 009

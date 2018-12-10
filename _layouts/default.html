@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
+{% include navigation-mobile.html %}
+{% include color-bar.html %}
 {% include navigation.html %}
-  <body>
-      <div class="wrapper">
-        {{ content }}
-      </div>
-      <footer>
+<div class="wrapper row start-xs">
+{{ content }}
+</div>
+<footer>
 {% include footer.html %}
-      </footer>
-  </body>
+</footer>
 </html>

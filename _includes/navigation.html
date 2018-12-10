@@ -1,26 +1,18 @@
-<div class="navigation">
-    <div class="nav-logo">
-        <a href="{{ site.baseurl }}/" class="site-title">Karma</a>
+<navigation class="navigation row middle-xs between-xs">   
+    <div class="row">
+    <a href="{{ site.baseurl }}/" class="nav-logo row start-xs col-sm-6 col-xs-10">
+        <img class="nav-logo-image" src="{{ site.baseurl }}/assets/images/logo/black.svg">
+        <div class="site-title">Karma Bird House</div>
+    </a>
+    <i id="mobile-nav-trigger" class="col-xs-2 end-xs far fa-plus"></i>
+    <div class="nav-links row col-sm-6 end-sm col-xs-12 start-xs">
+        <ul>
+            {% for node in site.pages | sort:'order' %} {% unless node.exclude %} {% if page.url == node.url %}
+            <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+            {% else %}
+            <li><a href="{{node.url}}">{{node.title}}</a></li>
+            {% endif %} {% endunless %} {% endfor %}
+        </ul>
+    </div>    
     </div>
-    <div class="nav-trigger close">
-        <span class="bar"></span>
-    </div>
-</div>
-
-<div class="outside">	
-	<div class="inside">
-		<div class="menu">
-            <div class="menu-links">
-                <ul>
-                    <li><a href="{{ site.baseurl }}/info/">Info</a></li>
-                    <li><a href="{{ site.baseurl }}/birdhouse/">Birdhouse</a></li>
-                    <li><a href="{{ site.baseurl }}/maglianero/">Maglianero</a></li>
-                    <li><a href="{{ site.baseurl }}/iskra/">Iskra</a></li>
-                </ul>
-            </div>
-            <div class="menu-description">
-                <p>The language of flowers, sometimes called floriography, is a means of cryptological communication through the use or arrangement of flowers.</p>
-            </div>
-	</div>
-</div>
-</div>
+</navigation>

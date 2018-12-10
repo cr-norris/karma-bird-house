@@ -4,21 +4,42 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>{{ site.title }}</title>
-<meta name="description" content="{{ site.description }}">
+<title>KBH / {{ page.title }}</title>
+
+<meta property="og:site_name" content="{{ site.title }}">
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:type" content="article">
+<meta property="og:description" content="{{ page.description | strip_html }}"/>
+{% else %}
+<meta property="og:title" content="{{ site.title }}">
+<meta property="og:type" content="website">
+<meta property="og:description" content="{{ site.description }}">
+{% endif %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png" sizes="16x16" type="image/png">
 
-<meta property="og:title" content="{{ site.description }}">
-<meta property="og:description" content="{{ site.description }}">
+<meta property="og:title" content="{{ page.description }}">
+<meta property="og:description" content="{{ page.description }}">
 <meta property="og:url" content="http://karmabird.house">
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css" type="text/css">
-    
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/navigation.css" type="text/css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/flexboxgrid.css" type="text/css">
     
 <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-TXfwrfuHVznxCssTxWoPZjhcss/hp38gEOH8UPZG/JcXonvBQ6SlsIF49wUzsGno" crossorigin="anonymous">
     
 <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css'>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130598940-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130598940-1');
+</script>    
 
 </head>
