@@ -5,7 +5,7 @@ where: Karma Bird House Gallery
 date: 2018-12-13
 link: https://google.com
 call-to-action: RSVP
-image: /assets/images/events/Holiday-Party.png
+image: /assets/images/events/holiday-animation.gif
 
 ---
 
