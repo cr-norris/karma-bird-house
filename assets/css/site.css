@@ -249,8 +249,13 @@ card:after {
     opacity: .6;
 }
 
+.card p {
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
 .row {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
