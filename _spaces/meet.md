@@ -2,8 +2,8 @@
 layout: space
 order: 3
 name: Meet
-description: Nunc laoreet dapibus sagittis. In vitae massa sit amet nisl pharetra consectetur ut non urna. Aenean vitae vestibulum erat. Integer nec libero vitae nisl scelerisque consectetur mollis sed nunc. Nunc cursus pretium vehicula.
-image: /assets/images/vertical.png
+description: Host your next meeting. We have 2 conference rooms available for rent to non-birds. One is on the roof overlooking the lake. Its perfect for an offiste meeting and offers endless natural inspiration over lake champlain.
+image: /assets/images/meet.jpg
 images:
   - image_path: /assets/images/square.png
   - image_path: /assets/images/square.png

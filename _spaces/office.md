@@ -1,10 +1,10 @@
 ---
 layout: space
 order: 2
-name: Office
+name: Workspaces
 image: /assets/images/banner-image.png
-description: Nunc laoreet dapibus sagittis. In vitae massa sit amet nisl pharetra consectetur ut non urna. Aenean vitae vestibulum erat. Integer nec libero vitae nisl scelerisque consectetur mollis sed nunc. Nunc cursus pretium vehicula.
-image: /assets/images/vertical.png
+description: Rent your own space. We offer a combination of private, semi private and open air workspace monthly memberships. We currently have X spaces available.
+image: /assets/images/office.jpg
 images:
   - image_path: /assets/images/square.png
   - image_path: /assets/images/square.png

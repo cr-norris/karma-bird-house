@@ -59,6 +59,11 @@ img {
     width: 100%;
 }
 
+video {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
 
 a {
     text-decoration: none;
@@ -120,6 +125,18 @@ li h3 {
     margin: 0;
 }
 
+.image-caption p {
+    font-size: .9em;
+    opacity: .4;
+    padding: 0 !important;
+    display: block;
+    margin-block-start: .25em;
+    margin-block-end: 1.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+}
+
 hr {
     margin: 1em 0;
     border: none;
@@ -131,6 +148,7 @@ hr {
     background-color: black;
     color: white;
     border: none;
+    margin: 1rem 0;
 }
 
 @keyframes color-animation {
@@ -213,12 +231,11 @@ section#exhibition {
 }
 
 .banner {
-    min-height: 30vh;
     padding: 2rem 0 2rem 0;
 }
 
 .banner .banner-title {
-    padding-bottom: 1em;
+    padding-bottom: 1rem;
 }
 
 .banner-title {
@@ -400,7 +417,7 @@ a.meta:hover {
 
 .exhibition-card-title {
     line-height: 1.2em;
-    font-size: 2em;
+    font-size: 1.5em;
     padding: .25em 0 .25em 0;
 }
 
@@ -625,6 +642,11 @@ select:-webkit-autofill:focus {
 
 .closed {
     display: none !important;
+}
+
+
+@media only screen and (max-width: 420px) {
+    .site-title {display: none;}
 }
 
 @media only screen and (max-width: 768px) {

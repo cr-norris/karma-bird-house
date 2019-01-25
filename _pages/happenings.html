@@ -3,15 +3,13 @@ layout: default
 title: Happenings
 description: Write a page description for happening here.
 ---
-
 <div id="upcoming-events" class="row top-xs">
     <div class="col-sm-8 col-xs-12">
-        <h3>Events</h3>
+        <h3>Upcoming</h3>
         {% include events-upcoming.html %}
     </div>
-
-    <div class="col-sm-4 col-xs-12"">
-        <h3>Exhibitions</h3>
-        {% include exhibitions-upcoming.html %}
+    <div class="col-sm-3 col-sm-offset-1 col-xs-12"">
+        <h3>Recent</h3>
+        {% include events-recent.html %}
     </div>
 </div>

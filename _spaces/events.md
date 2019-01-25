@@ -2,8 +2,8 @@
 layout: space
 order: 1
 name: Event
-description: Nunc laoreet dapibus sagittis. In vitae massa sit amet nisl pharetra consectetur ut non urna. Aenean vitae vestibulum erat. Integer nec libero vitae nisl scelerisque consectetur mollis sed nunc. Nunc cursus pretium vehicula.
-image: /assets/images/vertical.png
+description: Host an event. We have indoor and outdoor spaces for things like weddings, small conferences, parties. We can also help you make your event happen.
+image: /assets/images/event.jpg
 images:
   - image_path: /assets/images/square.png
   - image_path: /assets/images/square.png

@@ -1,5 +1,5 @@
     {% assign curDate = site.time | date: '%s' %}
-    {% assign sorted = (site.events | sort: 'date') | reverse %}
+    {% assign sorted = (site.events | sort: 'date')x %}
     {% for item in sorted %}
     {% assign postStartDate = item.date | date: '%s' %}
     {% if postStartDate >= curDate %}
@@ -7,7 +7,6 @@
     <img src="{{ item.image }}" class="event-card-image">
         <div class="event-card-what">
         <div class="event-card-title">{{ item.what }}</div>
-        <hr>
         <ul class="meta">
             <li>{{ item.where }}</li>
             <li>{{ item.date | date: '%B %d, %Y' }}</li>
