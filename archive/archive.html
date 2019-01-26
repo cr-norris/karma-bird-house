@@ -7,7 +7,7 @@ pagination:
   collection: events, exhibitions
 ---
 
-<section id="archive" class="row start-xs middle-xs">
+<section id="archive" class="row start-xs">
     <h2 class="col-xs-6"><a href="{{ site.baseurl }}/archive/">Archive</a></h2>
     <div class="col-xs-6 end-xs">    
         {% if paginator.total_pages > 1 %}
@@ -20,7 +20,7 @@ pagination:
         </ul>
         {% endif %}  
     </div>
-<ul class="row top-xs">
+<ul class="row top-xs start-xs">
 {% for post in paginator.posts %}
       <li class="col-sm-4 col-xs-12 archive-item">
           <a href="{{ post.url }}">
