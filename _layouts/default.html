@@ -4,9 +4,22 @@
 {% include navigation-mobile.html %}
 {% include color-bar.html %}
 {% include navigation.html %}
+<body>
 <div class="wrapper">
     {{ content }}
 </div>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
 <footer>
     {% include footer.html %}
 </footer>
