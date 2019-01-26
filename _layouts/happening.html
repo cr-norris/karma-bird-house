@@ -28,9 +28,11 @@ collection: events
     </div>
 </section>
 <section id="event-gallery" class="row">
-    {% for image in site.static_files %} {% if image.path contains page.value %}
+    {% for image in site.static_files %}
+    {% unless page.image == image.path %}
+    {% if image.path contains page.value %}
     <div class="item-image col-xs-6">
         <img src="{{ image.path }}" alt=""></img>
     </div>
-    {% endif %} {% endfor %}
+    {% endif %}{% endunless %} {% endfor %}
 </section>

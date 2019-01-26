@@ -2,10 +2,11 @@
 layout: happening
 what: The 6th Annual Karma Bird House Holdiay Party
 where: Karma Bird House Gallery
+value: holiday-party
 date: 2018-12-13
 link: https://google.com
 call-to-action: RSVP
-image: /assets/images/events/holiday-animation.gif
+image: /assets/images/events/holiday-party/holiday-1.jpg
 
 ---
 
