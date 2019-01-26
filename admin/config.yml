@@ -24,8 +24,8 @@ collections:
     file: '_data/directory.yml'
     description: 'Directory'
     widget: list
-      fields:
-        - name: People
-        - label: People
-        - label_singular: 'Person / Company'
-        - widget: list
+    fields:
+      - name: People
+      - label: People
+      - label_singular: 'Person / Company'
+      - widget: list
