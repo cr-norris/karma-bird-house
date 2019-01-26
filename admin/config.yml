@@ -19,15 +19,16 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Directory'
     label: 'Directory'
+    create: true # Allow users to create new documents in this collection
     files:
       - name: 'directory'
         label: 'Directory'
         file: '_data/directory.yml'
         description: 'Directory'
         fields:
-          - name: authors
-            label: Authors
-            label_singular: 'Author'
+          - name: People
+            label: People
+            label_singular: 'Person / Company'
             widget: list
             fields:
               - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
