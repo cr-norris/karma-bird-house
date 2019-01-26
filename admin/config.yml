@@ -18,7 +18,7 @@ collections:
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Directory'
-    label: 'Settings'
+    label: 'Directory'
     files:
       - name: 'directory'
         label: 'Directory'
