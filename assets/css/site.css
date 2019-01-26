@@ -41,6 +41,11 @@ img {
     width: 100%;
 }
 
+.index-video {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
 
 .dark-mode {
     filter: invert(100%);
@@ -296,7 +301,7 @@ Structural
 
 
 .row {
-    max-width: 1300px;
+    max-width: 1300px !important;
     margin: 0 auto;
 }
 
