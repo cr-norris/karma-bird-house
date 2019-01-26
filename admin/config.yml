@@ -28,7 +28,7 @@ collections:
         file: '_data/directory.yml'
         description: 'Directory'
         fields:
-          - name: Offices
+          - name: offices
             label: Offices
             label_singular: 'Person / Company'
             widget: list
