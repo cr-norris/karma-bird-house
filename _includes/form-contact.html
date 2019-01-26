@@ -1,0 +1,57 @@
+<div id="inquire">
+    <form name="contact" action="/confirmed/" netlify-honeypot="bot-field" method="POST" netlify>
+        
+        <div class="row between-xs">
+            <label>Name</label>
+            <input required type="name" name="name" placeholder="Who are you?">
+        </div>
+
+        <div class="row between-xs">
+            <label>Email</label>
+            <input required type="email" name="email" placeholder="What's your email?">
+        </div>
+
+        <div class="row beween-xs">       
+
+            <div class="row between-xs">
+                <label>Workspace</label>
+                <input type="checkbox" name="Workspace" value="Workspace">
+            </div>
+
+            <div class="row between-xs">
+                <label>Event Space</label>
+                <input type="checkbox" name="Event" value="Event">
+            </div>
+
+            <div class="row between-xs">
+                <label>Meeting Space</label>
+                <input type="checkbox" name="Meeting" value="Meeting">
+            </div>
+
+            <div class="row between-xs">
+                <label>Other</label>
+                <input type="checkbox" name="Other" value="Other">
+            </div>            
+
+        </div>
+
+        <div class="row between-xs">
+            <label>When?</label>
+            <input required type="date" name="date" placeholder="When?">
+        </div>
+
+        <div class="row between-xs">
+             <textarea required placeholder="Message" type="text" name="message"></textarea>
+        </div>
+
+
+
+        <button class="button" type="submit">Submit</button>
+
+    </form>
+</div>        
+        <!---
+        <input type="date" name="bday">
+        <textarea required name="message" placeholder="Message"></textarea>
+
+		--->

@@ -1,0 +1,199 @@
+/* 
+
+
+Inquire Form 
+
+
+*/
+
+
+#inquire form {
+    width: 100%;
+    padding: 0em;
+    font-size: 1.5em;   
+}
+
+#inquire label {
+    padding: 1rem 0;
+    display: inline-block;
+}
+
+#inquire input {
+    background-color: transparent;
+}
+
+#inquire 
+input[type=name],
+input[type=email] {
+    font-size: 1em;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 50%;
+}
+
+#inqure 
+input[type=text] {
+    font-size: 1em;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 50%;
+}
+
+
+#inquire
+textarea {
+    width: 100%;
+    border: 1px solid black;
+    padding: 1em;
+    font-size: 1em;
+    margin: 1em 0;
+    min-height: 20vh;
+}
+/*
+
+
+Date
+
+
+*/
+
+input[type=date] {
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-size: 1em;
+    background-color: transparent; !important;
+    cursor: default;
+    padding: initial;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 50%;
+}
+
+/*
+
+
+Checkboxes
+
+
+*/
+
+input[type=checkbox] {
+    background-color: black !important;
+    cursor: default;
+    padding: initial;
+    border: 1px solid black;
+}
+
+
+
+/* 
+
+
+Placeholder Text
+
+
+*/
+
+#inquire
+::-webkit-input-placeholder {
+    color: black;
+    opacity: .3;
+}
+
+#inquire
+:-moz-placeholder {
+    /* Firefox 18- */
+    color: black;
+    opacity: .3;
+}
+
+#inquire
+::-moz-placeholder {
+    /* Firefox 19+ */
+    color: black;
+    opacity: .3;
+}
+
+#inquire
+:-ms-input-placeholder {
+    color: black;
+    opacity: .3;
+}
+
+
+/* 
+
+
+Submit Button
+
+
+*/
+
+
+#inquire button[type=submit] {
+    font-size: 1.5em;
+    width: 100%;
+    color: white !important;
+    padding: 1rem;
+    background-color: #dfdfdf !important;
+}
+
+
+#inquire button:hover {
+    border: none;
+    cursor: pointer;
+}
+
+
+#inquire input:focus {
+    border: 0;
+    border-bottom: 2px solid black;
+}
+
+#inquire input[type=submit]:focus {
+    border: none;
+}
+
+#inquire:focus {
+    outline: 0 !important;
+}
+
+#inquire:hover {
+    -webkit-transition: all .1s ease;
+    transition: all .1s ease;
+}
+
+
+/* 
+
+
+Autofill & Warnings
+
+
+*/
+
+
+#inquire input:-webkit-autofill {}
+
+#inquire input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {}
+
+#inquire input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus input:-webkit-autofill,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    background-color: transparent !important;
+    -webkit-text-fill-color: black;
+    -webkit-box-shadow: 0 0 0px 0px #000 inset;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+#inquire p#warningName,
+p#warningEmail,
+p#warningComment {
+    color: red;
+}
