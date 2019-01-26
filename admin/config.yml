@@ -19,19 +19,13 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Directory'
     label: 'Directory'
+    label_singular: 'Person / Company'
     create: true # Allow users to create new documents in this collection
-    files:
-      - name: 'directory'
-        label: 'Directory'
-        file: '_data/directory.yml'
-        description: 'Directory'
-        fields:
-          - name: People
-            label: People
-            label_singular: 'Person / Company'
-            widget: list
-            fields:
-              - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
-              - { label: 'Website', name: 'website', widget: 'string', hint: 'First and Last' }
-              - { label: 'Email', name: 'email', widget: 'string', hint: 'First and Last' }
-              - { label: 'Office', name: 'office', widget: 'string' }
+    file: '_data/directory.yml'
+    description: 'Directory'
+    widget: list
+      fields:
+        - name: People
+        - label: People
+        - label_singular: 'Person / Company'
+        - widget: list
