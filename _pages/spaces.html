@@ -1,21 +1,19 @@
 ---
 layout: default
-exclude: true
+exclude: false
 title: Spaces
-description: Host an event. Start a company. Collaborate beautifully. Make some prints. Rent a space&#58;
+description: Host an event. Start a company. Collaborate beautifully. Make some prints. Rent a space.
 ---
 
-<div class="row banner start-xs middle-xs ">
-    <div class="banner-title col-xs-10">{{ page.description }}</div>
-</div>
+
 
 <div id="space-features" class="row start-xs top-xs">
     {% assign item = site.spaces | sort: 'order' %}
         {% for item in item %}
         <a href="{{ item.url }}" class="col-sm-4 col-xs-12 card">
+        	            <img src="{{ item.image }}"></img>
         	            <div class="banner-title">{{ item.name }}</div>
             <p>{{ item.description }}</p>
-            <img src="{{ item.image }}">
         </a>
     {% endfor %}
 </div>

@@ -6,7 +6,8 @@ where: Karma Bird House Gallery
 date: 2018-12-31
 link: https://google.com
 call-to-action: RSVP
-image: /assets/images/events/nova-nye.png
+image: /assets/images/events/nova/sage-1.jpg
+value: nova
 
 ---
 

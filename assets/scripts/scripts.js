@@ -5,12 +5,13 @@ var colors = [
     "#E65264",
     "#E66FC1",
     "#4FBC48",
-    "#3FC0FF"];
+    "#3FC0FF"
+];
 
 var $div = $('.button');
 var $navLinks = $('.nav-links, a');
 
-$('.button').mouseenter(function () {
+$('.button').mouseenter(function() {
     var color = colors.shift();
     colors.push(color);
     $div.css({
@@ -19,54 +20,64 @@ $('.button').mouseenter(function () {
 });
 
 
-$(".close").click(function () {
+$(".close").click(function() {
     $('.outside').toggleClass('in');
     $('.bar').toggleClass('active');
     $(this).toggleClass('is-showing');
 });
 
 
-$("rect#yellow").click(function (){
+$("rect#yellow").click(function() {
     $("body, footer, #mobile-nav").css('background', "#FFC923")
 });
 
-$("rect#orange").click(function (){
+$("rect#orange").click(function() {
     $("body, footer, #mobile-nav").css('background', "#F58A23")
 });
 
-$("rect#red").click(function (){
+$("rect#red").click(function() {
     $("body, footer, #mobile-nav").css('background', "#E65264")
 });
 
-$("rect#pink").click(function (){
+$("rect#pink").click(function() {
     $("body, footer, #mobile-nav").css('background', "#E66FC1")
 });
 
-$("rect#green").click(function (){
+$("rect#green").click(function() {
     $("body, footer, #mobile-nav").css('background', "#4FBC48")
 });
 
-$("rect#blue").click(function (){
+$("rect#blue").click(function() {
     $("body, footer, #mobile-nav").css('background', "#3FC0FF")
 });
 
-$("rect#white").click(function (){
+$("rect#white").click(function() {
     $("body, #mobile-nav").css('background', "#FFF")
     $("footer").css('background', "#00000010")
 });
 
-$("rect#black").click(function (){
+$("rect#black").click(function() {
     $("html").toggleClass('dark-mode')
     $("footer").css('background', "white")
 
 });
 
-$("#mobile-nav-trigger").click(function (){
+$("#mobile-nav-trigger").click(function() {
     $('body').toggleClass('mobile-nav')
     $("#mobile-nav").toggleClass('closed')
     $("#mobile-nav").toggleClass('open')
     $("i").toggleClass('fa-times')
     $("i").toggleClass('fa-plus')
+});
+
+$("video").prop('muted', true);
+
+$("video").hover(function() {
+    if ($("video").prop('muted')) {
+        $("video").prop('muted', false);
+    } else {
+        $("video").prop('muted', true);
+    }
 });
 
 /*
