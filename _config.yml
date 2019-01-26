@@ -17,12 +17,9 @@ collections:
   spaces:
     output: true
     permalink: /:collection/:title/   
-  events:
+  happenings:
     output: true
-    permalink: /event/:title/
-  exhibitions:
-    output: true
-    permalink: /exhibit/:title/
+    permalink: /happening/:title/
 
 markdown: kramdown
 theme:

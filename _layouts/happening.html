@@ -1,0 +1,36 @@
+---
+layout: default
+pagination:
+enabled: true
+collection: events
+---
+<section id="event" class="row top-xs start-xs">
+    <div class="col-sm-6 col-xs-12">
+        <img src="{{ page.image }}"></img>
+    </div>
+    <div class="col-sm-6 col-xs-12">
+        <ul>
+            <li>
+                {{ page.where }}
+            </li>
+            <li>
+                {{ page.date | date: '%B %d, %Y' }}
+            </li>
+        </ul>
+        <div class="text-area">
+            <h1 class="banner-title">
+                {{ page.what }}
+            </h1>
+            <div>
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</section>
+<section id="event-gallery" class="row">
+    {% for image in site.static_files %} {% if image.path contains page.value %}
+    <div class="item-image col-xs-6">
+        <img src="{{ image.path }}" alt=""></img>
+    </div>
+    {% endif %} {% endfor %}
+</section>

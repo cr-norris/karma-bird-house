@@ -1,11 +1,11 @@
-<navigation class="navigation row middle-xs between-xs">   
-    <div class="row">
-    <a href="{{ site.baseurl }}/" class="nav-logo row start-xs col-sm-6 col-xs-10">
+<navigation class="navigation row between-xs">   
+
+    <a href="{{ site.baseurl }}/" class="nav-logo nav-logo col-xs-8 col-sm-5 row start-xs">
         <img class="nav-logo-image" src="{{ site.baseurl }}/assets/images/logo/black.svg">
         <div class="site-title">Karma Bird House</div>
     </a>
-    <i id="mobile-nav-trigger" class="col-xs-2 end-xs far fa-plus"></i>
-    <div class="nav-links row col-sm-6 end-sm col-xs-12 start-xs">
+    <i id="mobile-nav-trigger" class="far fa-plus col-xs-4 col-sm-7 end-xs"></i>
+    <div class="nav-links col-xs-4 col-sm-7 end-xs">
         <ul>
             {% for node in site.pages | sort:'order' %} {% unless node.exclude %} {% if page.url == node.url %}
             <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
@@ -14,5 +14,5 @@
             {% endif %} {% endunless %} {% endfor %}
         </ul>
     </div>    
-    </div>
+
 </navigation>

@@ -75,6 +75,7 @@ $("video").prop('muted', true);
 $("video").hover(function() {
     if ($("video").prop('muted')) {
         $("video").prop('muted', false);
+        $("video").prop('volume', 0.1);
     } else {
         $("video").prop('muted', true);
     }
