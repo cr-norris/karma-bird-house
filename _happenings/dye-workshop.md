@@ -2,10 +2,11 @@
 layout: happening
 what: Natural Dye Workshop with Emma Warren and Sofia Fernandez
 where: Iskra Print Collective
+value: dye-workshop
 date: 2018-09-15
 link: https://google.com
 call-to-action: RSVP
-image: /assets/images/events/dye-workshop.png
+image: /assets/images/events/dye-workshop/dye-workshop-6.jpg
 
 ---
 
