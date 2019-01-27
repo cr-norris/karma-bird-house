@@ -4,13 +4,13 @@
     {% assign postStartDate = item.date | date: '%s' %}
     {% if postStartDate >= curDate %}
     <a href="{{ item.url }}" class="large-card row top-xs">
-    <img src="{{ item.image }}" class="large-card-image">
+    <img src="{{ item.feature-image }}" class="large-card-image">
         <div class="large-card-what">  
         <ul class="meta">
-            <li>{{ item.where }}</li>
+            <li>{{ item.location }}</li>
             <li>{{ item.date | date: '%B %d, %Y' }}</li>
         </ul>  
-        <div class="large-card-title">{{ item.what }}</div>
+        <div class="large-card-title">{{ item.title }}</div>
 
         </div>
     </a>  

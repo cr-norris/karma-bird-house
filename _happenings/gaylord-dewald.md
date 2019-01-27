@@ -1,6 +1,7 @@
 ---
 layout: happening
 title: 'Gaylord Dewald for AM:Frequency with Community of Sound'
+location: Maglianero Cafe
 start-date: 2019-01-30T12:30:00.000Z
 end-date: 2019-01-30T14:30:00.000Z
 feature-image:

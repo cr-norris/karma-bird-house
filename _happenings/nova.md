@@ -1,7 +1,7 @@
 ---
 layout: happening
 title: 'Nova: A new clear, new year for Highlight Burlington'
-where: Karma Bird House Gallery
+location: Maglianero Cafe
 date: 2019-01-01T00:00:00.000Z
 start-date: 2019-01-01T01:00:00.000Z
 end-date: 2019-01-01T07:00:00.000Z
