@@ -7,3 +7,8 @@ spaces-event:
       - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/0/'
       - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/1/'
     name: Cafe
+  - capacity: '20'
+    description: Roof space description.
+    feature-image:
+      - 'https://ucarecdn.com/550d366d-a3a6-448b-8f72-c93f24d402da~1/nth/0/'
+    name: Roof
