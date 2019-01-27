@@ -17,6 +17,8 @@ collections:
     folder: "_happenings"
     label_singular: "Happening"
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "Title", name: "title", widget: "string"}
