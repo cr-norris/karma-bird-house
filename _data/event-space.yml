@@ -1,5 +1,5 @@
 event-space:
-  - email: info@onepercentfortheplanet.org
-    name: 1% For the Planet
-    office: 103
-    website: 'http://www.onepercentfortheplanet.org/'
+  - name: The Cafe
+    capacity: 200
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat velit nisi. Nulla tellus enim, rutrum eget metus sit amet, ultricies suscipit felis. Pellentesque eu dapibus metus. Nullam nunc dolor, porta in justo id, suscipit suscipit dui. Aliquam consequat ac magna vitae tristique. Morbi faucibus lacus leo, ac scelerisque urna interdum ut. Vivamus pulvinar, lectus ac rutrum commodo, arcu tortor mollis justo, ut pharetra est risus at risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tellus sem, dictum ac varius id, porta et lacus.
+    image: /assets/images/spaces-1.jpg
