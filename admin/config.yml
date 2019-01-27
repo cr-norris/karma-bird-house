@@ -11,7 +11,7 @@ collections:
     label: "Happenings" # Used in the UI
     folder: "_happenings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug:
+    slug: "{{slug}}"
       encoding: "ascii"
       clean_accents: true
       sanitize_replacement: "_"
@@ -20,10 +20,10 @@ collections:
       - {label: "What", name: "what", widget: "string"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Published", name: "date", widget: "date"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Starts", name: "start-date", widget: "datetime"}
       - {label: "Ends", name: "end-date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "Link Text", name: "link-text", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Value", name: "value", widget: "hidden", default: "blog"}
