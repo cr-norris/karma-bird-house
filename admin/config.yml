@@ -16,13 +16,18 @@ collections:
     label: "Happenings"
     folder: "_happenings"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
-      preview: false    
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "What", name: "what", widget: "string"}
-
+      - {label: "Where", name: "where", widget: "string"}
+      - {label: "Published", name: "date", widget: "date"}
+      - {label: "Starts", name: "start-date", widget: "datetime"}
+      - {label: "Ends", name: "end-date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+      - {label: "Link Text", name: "link-text", widget: "string", required: false}
+      - {label: "Feature Image", name: "feature-image", widget: "image", required: false}
+      - {label: "Images", name: "images", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}  
 
   - label: "Spaces"
     name: "spaces"
