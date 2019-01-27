@@ -5,7 +5,7 @@ backend:
 media_folder: "/assets/images/uploads"
 
 collections:
-  - name: "happenings" # Used in routes, e.g., /admin/collections/blog
+  - name: "happeni:ngs" # Used in routes, e.g., /admin/collections/blog
     label: "Happenings" # Used in the UI
     description: Public events for birdhouse and beyond. # Used in the UI
     label_singular: 'Happening'
