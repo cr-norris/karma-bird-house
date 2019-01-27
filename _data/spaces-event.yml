@@ -1,8 +1,9 @@
 spaces-event:
   - capacity: '200'
-    description: Test
-    feature-image: 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/0/'
+    description: Basic description for the cafe.
+    feature-image:
+      - 'https://ucarecdn.com/2a14f006-ffe0-41a1-91a1-1cbd16d3c807~1/nth/0/'
     images:
       - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/0/'
       - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/1/'
-    name: Test
+    name: Cafe
