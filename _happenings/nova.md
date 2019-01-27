@@ -2,11 +2,8 @@
 layout: happening
 title: 'Nova: A new clear, new year for Highlight Burlington'
 location: Maglianero Cafe
-date: 2019-01-01T00:00:00.000Z
 start-date: 2019-01-01T01:00:00.000Z
 end-date: 2019-01-01T07:00:00.000Z
-link: 'https://google.com'
-link-text: Link Text
 feature-image:
   - 'https://ucarecdn.com/5178ba9f-c1c3-419f-9065-745a4a5d8905~1/nth/0/'
 images:
