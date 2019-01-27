@@ -12,8 +12,8 @@ description: Write a page description for the directory here.
     </div>
     {% for company in site.directory %}
     <a class="row start-xs directory-listing" href="{{ company.website }}" target="_blank">
-        <p class="col-sm-1 col-xs-2">{{ company.office }}</p>
-        <p class="directory-listin-name col-sm-10 col-xs-8">{{ company.name }}</p>
+        <p class="col-sm-1 col-xs-2">{{ company.space }}</p>
+        <p class="directory-listin-name col-sm-10 col-xs-8">{{ company.title }}</p>
         <div class="col-sm-1 col-xs-2 end-xs" href="{{ company.website }}" target="_blank"><i class="far fa-external-link-square"></i></div>
     </a>
     {% endfor %}
