@@ -36,8 +36,8 @@ collections:
         name: "work-space"
         file: "_data/work-space.yml"
         fields:
-          - label: Workspaces
-            name: workspaces
+          - label: Work Space
+            name: work-space
             widget: list
             fields:
               - {label: Office, name: office, widget: string}
