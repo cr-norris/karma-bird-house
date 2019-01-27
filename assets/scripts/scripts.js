@@ -1,5 +1,3 @@
-localStorage.removeItem("https://karmabird.house")
-
 var counter = 0;
 var colors = [
     "#FFC923",
