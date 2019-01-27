@@ -1,5 +1,7 @@
 spaces-event:
   - capacity: '200'
     description: Test
-    image: /assets/images/meet.jpg
+    image:
+      - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/0/'
+      - 'https://ucarecdn.com/26510d2a-39e3-46c9-a654-291e652cf989~2/nth/1/'
     name: Test
