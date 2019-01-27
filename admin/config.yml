@@ -15,11 +15,12 @@ collections:
   - label: "Happenings"
     name: "happenings"
     folder: "_happenings"
+    label_singular: "Happening"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      
+
   - label: "Spaces"
     name: "spaces"
     editor:
