@@ -149,3 +149,7 @@ work-space:
   - name: Young Writers Project
     office: 009
     website: 'https://youngwritersproject.org'
+  - email: chris@cr-norris.com
+    name: Christopher Norris
+    office: '000'
+    website: cr-norris.com
