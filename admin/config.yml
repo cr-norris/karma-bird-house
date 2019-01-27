@@ -33,12 +33,12 @@ collections:
   - label: "Directory"
     name: "directory"
     folder: "_directory"
-    label_singular: "Office"
+    label_singular: "Directory Item"
     create: true
     editor:
       preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Space", name: "space", widget: "number"}       
-      - {label: "Email", name: "email", widget: "string"}         
-      - {label: "Website", name: "website", widget: "string"}          
+      - {label: "Email", name: "email", widget: "string", required: false}         
+      - {label: "Website", name: "website", widget: "string", required: false}          
