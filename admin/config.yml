@@ -2,8 +2,6 @@ backend:
   name: git-gateway
   branch: master
 
-publish_mode: editorial_workflow
-
 media_folder: "assets/images/uploads"
 
 collections:
@@ -39,16 +37,4 @@ collections:
               - {label: Office, name: office, widget: string}
               - {label: Email, name: email, widget: string}
               - {label: Name, name: name, widget: string}          
-              - {label: Website, name: website, widget: string}  
-      - label: "Event Spaces"
-        name: "event-spaces"
-        file: "_data/event-spaces.yml"
-        fields:
-          - label: Event Spaces
-            name: "event-spaces"
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Capacity, name: capacity, widget: number}
-              - {label: Amenities, name: amenities, widget: list}          
-              - {label: Link, name: link, widget: string}                          
+              - {label: Website, name: website, widget: string}                   
