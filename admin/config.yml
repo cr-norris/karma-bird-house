@@ -7,7 +7,7 @@ media_library:
  config:
    publicKey: a9b01c8a17e1d9367673
    multiple: true
-   data-tabs: file, gdrive, dropbox, instagram
+   tabs: file gdrive dropbox instagram
 display_url: https://karmabird.house
 
 collections:
