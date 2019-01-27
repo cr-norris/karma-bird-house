@@ -22,13 +22,12 @@ collections:
       - {label: "What", name: "what", widget: "string"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Published", name: "date", widget: "date"}
-      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Starts", name: "start-date", widget: "datetime"}
       - {label: "Ends", name: "end-date", widget: "datetime"}
-      - {label: "Link", name: "link", widget: "string"}
-      - {label: "Link Text", name: "link-text", widget: "string"}
+      - {label: "Link", name: "link", widget: "string", required: "false"}
+      - {label: "Link Text", name: "link-text", widget: "string", required: "false"}
       - {label: Feature Image, name: feature-image, widget: image}
-      - {label: Images, name: images, widget: image}
+      - {label: Images, name: images, widget: image, required: "false"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Spaces"
