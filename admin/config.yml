@@ -15,7 +15,6 @@ collections:
   - name: "happenings"
     label: "Happenings"
     folder: "_happenings"
-    create: true
     editor:
       preview: false
     fields:
