@@ -25,6 +25,7 @@ collections:
 
   - label: "Spaces"
     name: "spaces"
+    create: true # Allow users to create new documents in this collection
     files:
       - label: "Workspaces"
         name: "workspaces"
