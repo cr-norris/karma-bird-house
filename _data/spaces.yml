@@ -149,3 +149,7 @@ workspaces:
   - name: Young Writers Project
     office: 009
     website: 'https://youngwritersproject.org'
+event-spaces:
+  - name: The Roof
+    capacity: 20
+    link: https://google.com
