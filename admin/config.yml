@@ -12,14 +12,13 @@ media_library:
 display_url: https://karmabird.house
 
 collections:
-  - label: "Happenings"
-    name: "happenings"
-    folder: "_happenings"
+  - label: "test"
+    name: "test"
+    folder: "_test"
     create: true
     fields:
-      - {label: "What", name: "what", widget: "string"}
-      - {label: "Where", name: "where", widget: "string"}
-      - {label: "Start Date", name: "start-date", widget: "datetime"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
 
 
 
