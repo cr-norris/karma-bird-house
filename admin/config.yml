@@ -40,7 +40,7 @@ collections:
         name: "spaces-work"
         file: "_data/spaces-work.yml"
         fields:
-          - label: Work 
+          - label: Work
             name: spaces-work
             widget: list
             fields:
@@ -54,6 +54,19 @@ collections:
         fields:
           - label: Event
             name: spaces-event
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Capacity, name: capacity, widget: number}       
+              - {label: Description, name: description, widget: text}
+              - {label: Feature Image, name: feature-image, widget: image} 
+              - {label: Images, name: images, widget: image}
+      - label: "Meeting"
+        name: "spaces-meet"
+        file: "_data/spaces-meet.yml"
+        fields:
+          - label: Meet
+            name: spaces-meet
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
