@@ -1,12 +1,17 @@
 backend:
   name: git-gateway
+  repo: alder-studio/karma-bird-house # Path to your GitHub repository
   branch: staging
 
 media_folder: "/assets/images/uploads"
-
+display_url: https://karmabird.house
+logo_url: /assets/images/logo/black.svg
 collections:
+
+
   - name: "happenings" # Used in routes, e.g., /admin/collections/blog
     label: "Happenings" # Used in the UI
+    description: Public events for birdhouse and beyond. # Used in the UI
     label_singular: 'Happening'
     folder: "_happenings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -18,6 +23,8 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+
   - name: 'Directory'
     label: 'Directory'
     create: false # Allow users to create new documents in this collection
