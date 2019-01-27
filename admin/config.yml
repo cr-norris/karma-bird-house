@@ -31,20 +31,24 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Work Space"
-        name: "work-space"
-        file: "_data/spaces.yml"
+      - label: "Work"
+        name: "spaces-work"
+        file: "_data/spaces-work.yml"
         fields:
-          - label: Work Space
-            name: workspace
+          - label: Work 
+            name: spaces-work
             widget: list
             fields:
               - {label: Office, name: office, widget: string}
               - {label: Email, name: email, widget: string}
               - {label: Name, name: name, widget: string}          
-              - {label: Website, name: website, widget: string}           
-          - label: Event Space
-            name: event-space
+              - {label: Website, name: website, widget: string}                   
+      - label: "Event"
+        name: "spaces-event"
+        file: "_data/spaces-event.yml"
+        fields:
+          - label: Event
+            name: spaces-event
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
