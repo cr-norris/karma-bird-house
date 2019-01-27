@@ -32,14 +32,11 @@ collections:
         name: "workspaces"
         file: "_data/spaces.yml"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
           - label: Workspaces
             name: workspaces
             widget: list
             fields:
-              - {label: Email, name: email, widget: string}
-              - {label: Name, name: name, widget: string}
               - {label: Office, name: office, widget: string}
-              - {label: Website, name: website, widget: string}
-              
+              - {label: Email, name: email, widget: string}
+              - {label: Name, name: name, widget: string}          
+              - {label: Website, name: website, widget: string}            
