@@ -17,7 +17,7 @@ collections:
     folder: "_happenings"
     create: true
     editor:
-      preview: false
+      preview: false    
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "What", name: "what", widget: "string"}
@@ -29,24 +29,7 @@ collections:
       - {label: "Link Text", name: "link-text", widget: "string", required: false}
       - {label: "Feature Image", name: "feature-image", widget: "image", required: false}
       - {label: "Images", name: "images", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-collections:
-  - name: "happenings"
-    label: "Happenings"
-    folder: "_happenings"
-    create: true
-    editor:
-      preview: false    
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Image Caption", name: "caption", widget: "string"}
-      - {label: "Text Snippet", name: "snippet", widget: "text"}
-      - {label: "Link", name: "link", widget: "string", required: false}
-      - {label: "Order", name: "order", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}      
+      - {label: "Body", name: "body", widget: "markdown"}  
 
   - label: "Spaces"
     name: "spaces"
