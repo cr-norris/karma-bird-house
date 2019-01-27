@@ -24,7 +24,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Roof Space"]}
       - {label: "Start", name: "start-date", widget: "datetime"}
-      - {label: "End", name: "end-date", widget: "datetime"}
+      - {label: "End", name: "end-date", widget: "datetime", required: false}
       - {label: "Feature Image", name: "feature-image", widget: "image"}
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
