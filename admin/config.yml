@@ -32,7 +32,7 @@ collections:
 
   - label: "Pages"
     name: "pages"
-    folder: "pages"
+    folder: "_pages"
     create: false
     editor:
       preview: false
