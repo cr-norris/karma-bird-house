@@ -18,7 +18,7 @@ collections:
     label_singular: "Happening"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "string", default: "happening"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Start", name: "start-date", widget: "datetime"}
       - {label: "End", name: "end-date", widget: "datetime"}
