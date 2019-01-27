@@ -6,7 +6,7 @@ collection: events
 ---
 <section id="event" class="row top-xs start-xs">
     <div class="col-sm-6 col-xs-12">
-        <img src="{{ page.image }}"></img>
+        <img src="{{ page.feature-image }}"></img>
     </div>
     <div class="col-sm-6 col-xs-12">
         <ul class="meta">
@@ -14,7 +14,10 @@ collection: events
                 {{ page.where }}
             </li>
             <li>
-                {{ page.date | date: '%B %d, %Y' }}
+                {{ page.start-date | date: '%B %d, %Y' }}
+            </li>
+            <li>
+                {{ page.start-date | date: '%k %P' }} – {{ page.end-date | date: '%k %P' }}
             </li>
         </ul>
         <div class="text-area">
@@ -28,11 +31,9 @@ collection: events
     </div>
 </section>
 <section id="event-gallery" class="row">
-    {% for image in site.static_files %}
-    {% unless page.image == image.path %}
-    {% if image.path contains page.slug %}
+    {% for image in page.images %}
     <div class="item-image col-xs-6">
-        <img src="{{ image.path }}" alt=""></img>
+        <img src="{{ image }}" alt=""></img>
     </div>
-    {% endif %}{% endunless %} {% endfor %}
+    {% endfor %}
 </section>
