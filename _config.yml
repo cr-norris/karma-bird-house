@@ -20,9 +20,6 @@ collections:
   happenings:
     output: true
     permalink: /happening/:title/
-  test:
-    output: true
-    permalink: /test/:title/
 
 markdown: kramdown
 theme:
