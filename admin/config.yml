@@ -3,12 +3,15 @@ backend:
   branch: master
 
 media_folder: "assets/images/uploads"
+display_url: https://karmabird.house
 
 collections:
   - name: "happenings" # Used in routes, e.g., /admin/collections/blog
     label: "Happenings" # Used in the UI
     folder: "_happenings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
@@ -26,10 +29,12 @@ collections:
   - label: "Spaces"
     name: "spaces"
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     files:
       - label: "Workspaces"
-        name: "workspaces"
-        file: "_data/spaces.yml"
+        name: "workspace"
+        file: "_data/workspace.yml"
         fields:
           - label: Workspaces
             name: workspaces
@@ -39,3 +44,15 @@ collections:
               - {label: Email, name: email, widget: string}
               - {label: Name, name: name, widget: string}          
               - {label: Website, name: website, widget: string}                   
+      - label: "Event Spaces"
+        name: "eventspace"
+        file: "_data/eventspace.yml"
+        fields:
+          - label: Event Spaces
+            name: eventspace
+            widget: list
+            fields:
+              - {label: Office, name: office, widget: string}
+              - {label: Email, name: email, widget: string}
+              - {label: Name, name: name, widget: string}          
+              - {label: Website, name: website, widget: string}                                 
