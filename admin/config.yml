@@ -30,7 +30,7 @@ collections:
     files:
       - label: "Workspaces"
         name: "workspaces"
-        file: "_data/spaces.yml"
+        file: "_data/workspaces.yml"
         fields:
           - label: Workspaces
             name: workspaces
@@ -42,7 +42,7 @@ collections:
               - {label: Website, name: website, widget: string}  
       - label: "Event Spaces"
         name: "event-spaces"
-        file: "_data/spaces.yml"
+        file: "_data/event-spaces.yml"
         fields:
           - label: Event Spaces
             name: "event-spaces"
