@@ -38,6 +38,6 @@ collections:
       preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Space", name: "Space", widget: "number"}       
+      - {label: "Space", name: "space", widget: "number"}       
       - {label: "Email", name: "email", widget: "string"}         
       - {label: "Website", name: "website", widget: "string"}          
