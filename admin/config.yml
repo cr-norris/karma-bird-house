@@ -19,17 +19,34 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Layout, name: layout, widget: hidden, default: happening}
-      - {label: What, name: what, widget: string}
-      - {label: Where, name: where, widget: string}
-      - {label: Published, name: date, widget: date}
-      - {label: Starts, name: start-date, widget: datetime}
-      - {label: Ends, name: end-date, widget: datetime}
-      - {label: Link, name: link, widget: string, required: false}
-      - {label: Link Text, name: link-text, widget: string, required: false}
-      - {label: Feature Image, name: feature-image, widget: image, required: false}
-      - {label: Images, name: images, widget: image, required: false}
-      - {label: Body, name: body, widget: markdown}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
+      - {label: "What", name: "what", widget: "string"}
+      - {label: "Where", name: "where", widget: "string"}
+      - {label: "Published", name: "date", widget: "date"}
+      - {label: "Starts", name: "start-date", widget: "datetime"}
+      - {label: "Ends", name: "end-date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+      - {label: "Link Text", name: "link-text", widget: "string", required: false}
+      - {label: "Feature Image", name: "feature-image", widget: "image", required: false}
+      - {label: "Images", name: "images", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+collections:
+  - name: "happenings"
+    label: "Happenings"
+    folder: "_happenings"
+    create: true
+    editor:
+      preview: false    
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Image Caption", name: "caption", widget: "string"}
+      - {label: "Text Snippet", name: "snippet", widget: "text"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+      - {label: "Order", name: "order", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}      
 
   - label: "Spaces"
     name: "spaces"
@@ -40,27 +57,27 @@ collections:
         name: "spaces-work"
         file: "_data/spaces-work.yml"
         fields:
-          - label: Work
-            name: spaces-work
-            widget: list
+          - label: "Work"
+            name: "spaces-work"
+            widget: "list"
             fields:
-              - {label: Office, name: office, widget: string}
-              - {label: Email, name: email, widget: string}
-              - {label: Name, name: name, widget: string}          
-              - {label: Website, name: website, widget: string}                   
+              - {label: "Office", name: "office", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}          
+              - {label: "Website", name: "website", widget: "string"}                   
       - label: "Event"
         name: "spaces-event"
         file: "_data/spaces-event.yml"
         fields:
-          - label: Event
-            name: spaces-event
-            widget: list
+          - label: "Event"
+            name: "spaces-event"
+            widget: "list"
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Capacity, name: capacity, widget: number}       
-              - {label: Description, name: description, widget: text}
-              - {label: Feature Image, name: feature-image, widget: image} 
-              - {label: Images, name: images, widget: image}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Capacity", name: "capacity", widget: "number"}       
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Feature Image", name: "feature-image", widget: "image"} 
+              - {label: "Images", name: "images", widget: "image"}
       - label: "Meeting"
         name: "spaces-meet"
         file: "_data/spaces-meet.yml"
@@ -69,8 +86,8 @@ collections:
             name: spaces-meet
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Capacity, name: capacity, widget: number}       
-              - {label: Description, name: description, widget: text}
-              - {label: Feature Image, name: feature-image, widget: image} 
-              - {label: Images, name: images, widget: image}                             
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Capacity", name: "capacity", widget: "number"}       
+              - {label: "Description", name: "description", widget:"text"}
+              - {label: "Feature Image", name: "feature-image", widget: "image"} 
+              - {label: "Images", name: "images", widget: "image"}                             
