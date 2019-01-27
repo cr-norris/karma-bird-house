@@ -3,10 +3,10 @@ layout: happening
 what: 'Nova: A new clear, new year for Highlight Burlington'
 where: Karma Bird House Gallery
 date: 2018-12-31T00:00:00.000Z
-start-date: 2018-12-31T00:00:00.000Z
-end-date: 2018-12-31T00:00:00.000Z
+start-date: 2019-01-01T01:00:00.000Z
+end-date: 2019-01-01T07:00:00.000Z
 link: 'https://google.com'
-link-text: RSVP
+link-text: Link Text
 image: /assets/images/events/nova/sage-1.jpg
 ---
 
