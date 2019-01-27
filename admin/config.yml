@@ -24,10 +24,10 @@ collections:
       - {label: "Published", name: "date", widget: "date"}
       - {label: "Starts", name: "start-date", widget: "datetime"}
       - {label: "Ends", name: "end-date", widget: "datetime"}
-      - {label: "Link", name: "link", widget: "string", required: "false"}
-      - {label: "Link Text", name: "link-text", widget: "string", required: "false"}
+      - {label: "Link", name: "link", widget: "string", required: false}
+      - {label: "Link Text", name: "link-text", widget: "string", required: false}
       - {label: Feature Image, name: feature-image, widget: image}
-      - {label: Images, name: images, widget: image, required: "false"}
+      - {label: Images, name: images, widget: image, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Spaces"
