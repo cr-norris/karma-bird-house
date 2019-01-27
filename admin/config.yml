@@ -32,9 +32,9 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Workspaces"
-        name: "workspace"
-        file: "_data/workspace.yml"
+      - label: "Work Space"
+        name: "work-space"
+        file: "_data/work-space.yml"
         fields:
           - label: Workspaces
             name: workspaces
@@ -44,12 +44,12 @@ collections:
               - {label: Email, name: email, widget: string}
               - {label: Name, name: name, widget: string}          
               - {label: Website, name: website, widget: string}                   
-      - label: "Event Spaces"
-        name: "eventspace"
-        file: "_data/eventspace.yml"
+      - label: "Event Space"
+        name: "event-space"
+        file: "_data/event-space.yml"
         fields:
-          - label: Event Spaces
-            name: eventspace
+          - label: Event Space
+            name: event-space
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
