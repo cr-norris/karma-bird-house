@@ -19,6 +19,10 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Start", name: "start-date", widget: "datetime"}
+      - {label: "End", name: "end-date", widget: "datetime"}
+      - {label: "Feature Image", name: "feature-image", widget: "image"}
+      - {label: "Images", name: "images", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Spaces"
