@@ -17,7 +17,6 @@ collections:
     create: true
     editor:
       preview: false
-    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "What", name: "what", widget: "string"}

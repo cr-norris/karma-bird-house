@@ -4,7 +4,7 @@
 {% assign postStartDate = item.date | date: '%s' %}
 {% if postStartDate <= curDate %} 
 <a href="{{ item.url }}" class="med-card row top-xs">
-    <img src="{{ item.image }}" class="med-card-image">
+    <img src="{{ item.feature-image }}" class="med-card-image">
     <div class="med-card-what">
         <div class="med-card-title">{{ item.what }}</div>
         <ul class="meta">
