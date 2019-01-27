@@ -29,7 +29,6 @@ collections:
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-collections:
   - label: "Directory"
     name: "directory"
     folder: "_directory"
