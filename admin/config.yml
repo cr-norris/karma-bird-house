@@ -24,3 +24,20 @@ collections:
       - {label: "Link Text", name: "link-text", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: 'Spaces'
+    label: 'Spaces'
+    label_singular: 'Space Type'
+    create: true
+    widget: list
+    files:
+      - name: 'spaces'
+    collections:
+        file: '_data/spaces.yml'
+        description: 'Offices'
+        fields:
+          - name: Offices
+            label: Offices
+            label_singular: 'Person / Company'
+            widget: list
+            fields:
