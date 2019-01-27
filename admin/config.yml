@@ -11,7 +11,10 @@ collections:
     label: "Happenings" # Used in the UI
     folder: "_happenings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "What", name: "what", widget: "string"}
@@ -23,3 +26,4 @@ collections:
       - {label: "Link Text", name: "link-text", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Value", name: "value", widget: "hidden", default: "blog"}
