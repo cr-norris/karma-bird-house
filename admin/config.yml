@@ -27,7 +27,8 @@ collections:
       - {label: "Ends", name: "end-date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "Link Text", name: "link-text", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: Feature Image, name: feature-image, widget: image}
+      - {label: Images, name: images, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Spaces"
@@ -58,4 +59,5 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Capacity, name: capacity, widget: number}       
               - {label: Description, name: description, widget: text}
-              - {label: Image, name: image, widget: image}                             
+              - {label: Feature Image, name: feature-image, widget: image} 
+              - {label: Images, name: images, widget: image}                             
