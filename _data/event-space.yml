@@ -1,17 +1,9 @@
 event-space:
-  - capacity: 200
+  - capacity: '20'
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat
-      velit nisi. Nulla tellus enim, rutrum eget metus sit amet, ultricies
-      suscipit felis. Pellentesque eu dapibus metus. Nullam nunc dolor, porta in
-      justo id, suscipit suscipit dui. Aliquam consequat ac magna vitae
-      tristique. Morbi faucibus lacus leo, ac scelerisque urna interdum ut.
-      Vivamus pulvinar, lectus ac rutrum commodo, arcu tortor mollis justo, ut
-      pharetra est risus at risus. Orci varius natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Cras tellus sem, dictum ac
-      varius id, porta et lacus.
-    image: /assets/images/spaces-1.jpg
-    name: The Cafe
-  - capacity: '200'
-    description: test
-    name: Test
+      Host your next meeting. We have 2 conference rooms available for rent to
+      non-birds. One is on the roof overlooking the lake. Its perfect for an
+      off-site meeting and offers endless natural inspiration over lake
+      champlain.
+    image: /assets/images/spaces-2.jpg
+    name: The Roof
