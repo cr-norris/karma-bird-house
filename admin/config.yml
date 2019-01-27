@@ -6,6 +6,7 @@ media_library:
  name: uploadcare
  config:
    publicKey: a9b01c8a17e1d9367673
+   multiple: true
 display_url: https://karmabird.house
 
 collections:
