@@ -28,7 +28,6 @@ collections:
 
   - label: "Spaces"
     name: "spaces"
-    create: true # Allow users to create new documents in this collection
     editor:
       preview: false
     files:
