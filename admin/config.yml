@@ -37,8 +37,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Office", name: "office", widget: "string"}
-      - {label: "Email", name: "email", widget: "string"}
-      - {label: "Name", name: "name", widget: "string"}          
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Space", name: "Space", widget: "number"}       
+      - {label: "Email", name: "email", widget: "string"}         
       - {label: "Website", name: "website", widget: "string"}          
