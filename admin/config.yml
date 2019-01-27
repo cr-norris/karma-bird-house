@@ -30,6 +30,18 @@ collections:
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - label: "Pages"
+    name: "pages"
+    folder: "pages"
+    create: false
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Description", name: "description", widget: "text"}
+      - {label: "Exclude from Navigation", name: "exclude", widget: "boolean"}
+
   - label: "Directory"
     name: "directory"
     folder: "_directory"
@@ -41,4 +53,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Space", name: "space", widget: "number"}       
       - {label: "Email", name: "email", widget: "string", required: false}         
-      - {label: "Website", name: "website", widget: "string", required: false}          
+      - {label: "Website", name: "website", widget: "string", required: false}                  
