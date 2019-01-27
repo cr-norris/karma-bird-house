@@ -52,7 +52,7 @@ collections:
             name: eventspace
             widget: list
             fields:
-              - {label: Office, name: office, widget: string}
-              - {label: Email, name: email, widget: string}
-              - {label: Name, name: name, widget: string}          
-              - {label: Website, name: website, widget: string}                                 
+              - {label: Name, name: name, widget: string}
+              - {label: Capacity, name: capacity, widget: number}       
+              - {label: Description, name: description, widget: text}
+              - {label: Image, name: image, widget: image}                             
