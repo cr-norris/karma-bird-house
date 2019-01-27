@@ -39,7 +39,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "SEO Description", name: "description", widget: "text"}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
       - {label: "Exclude from Navigation", name: "exclude", widget: "boolean"}
 
   - label: "Directory"
