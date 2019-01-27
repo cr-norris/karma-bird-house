@@ -1,16 +1,13 @@
 ---
 layout: happening
-what: Nova&#58; A new clear, new year for Highlight Burlington
+what: 'Nova: A new clear, new year for Highlight Burlington'
 where: Karma Bird House Gallery
-published: true
-date: 2018-12-31
-start-date: 2018-12-31
-end-date: 2018-12-31
-link: https://google.com
-link-text: RSVP
+date: 2018-12-31T00:00:00.000Z
+start-date: 2019-01-01T01:00:00.000Z
+end-date: 2019-01-01T07:00:00.000Z
+link: 'https://google.com'
+link-text: Link Text
 image: /assets/images/events/nova/sage-1.jpg
-value: nova
-
 ---
 
 Suspend your disbelief and climb into the sunset of 2018 at the Karma Bird House for a metamorphic evening filled with warm sights, glowing sounds and dream flavors. Welcome 2019 with an experiment in wellness and wellbeing – let conversation and good karma unfold.
