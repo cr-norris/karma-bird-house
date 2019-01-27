@@ -20,7 +20,6 @@ collections:
       - {label: "What", name: "what", widget: "string"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Published", name: "date", widget: "date"}
-      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Starts", name: "start-date", widget: "datetime"}
       - {label: "Ends", name: "end-date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
