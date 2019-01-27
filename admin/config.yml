@@ -28,7 +28,7 @@ collections:
     files:
       - label: "Workspaces"
         name: "workspaces"
-        file: "_data/workspaces.yml"
+        file: "_data/spaces.yml"
         fields:
           - label: Workspaces
             name: workspaces
