@@ -12,14 +12,12 @@ collections:
     folder: "_happenings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "_"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "What", name: "what", widget: "string"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Published", name: "date", widget: "date"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Starts", name: "start-date", widget: "datetime"}
       - {label: "Ends", name: "end-date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
