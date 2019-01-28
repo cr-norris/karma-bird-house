@@ -43,8 +43,8 @@ collections:
       - {label: "Website", name: "website", widget: "string", required: false}      
 
   - label: "Spaces"
-    name: "space"
-    folder: "spaces"
+    name: "spaces"
+    folder: "_spaces"
     label_singular: "Space"
     create: true
     editor:
