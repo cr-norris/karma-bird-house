@@ -5,7 +5,8 @@ order: 2
 description: >-
   Rent your own space. We offer a combination of private, semi private and open
   air workspace monthly memberships. We currently have X spaces available.
-feature-image: /assets/images/office.jpg
+feature-image:
+  - 'https://ucarecdn.com/95ce8fa9-9b30-4e43-abf8-3e46ba52fc6b~1/nth/0/'
 images:
   - 'https://ucarecdn.com/a05f85e7-5c82-4233-9c7a-c31c17505511~1/nth/0/'
 ---
