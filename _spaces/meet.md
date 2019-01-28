@@ -1,6 +1,6 @@
 ---
 layout: space
-title: Meet
+title: Meeting
 order: 3
 description: >-
   Host your next meeting. We have 2 conference rooms available for rent to
