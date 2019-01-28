@@ -46,7 +46,6 @@ collections:
     name: "spaces"
     folder: "_spaces"
     label_singular: "Space"
-    create: true
     editor:
       preview: false
     fields:
@@ -56,7 +55,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}   
       - {label: "Feature-image", name: "feature-image", widget: "image"}         
       - {label: "Images", name: "images", widget: "image", required: false}   
-      - {label: "Body", name: "body", widget: "markdown"}      
+      - {label: "Body", name: "body", widget: "markdown"}                
 
 
 
