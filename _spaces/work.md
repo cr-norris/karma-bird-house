@@ -1,15 +1,13 @@
 ---
 layout: space
-order: 2
 title: Work
-image: /assets/images/banner-image.png
-description: Rent your own space. We offer a combination of private, semi private and open air workspace monthly memberships. We currently have X spaces available.
+order: 2
+description: >-
+  Rent your own space. We offer a combination of private, semi private and open
+  air workspace monthly memberships. We currently have X spaces available.
 feature-image: /assets/images/office.jpg
 images:
-  - image_path: /assets/images/square.png
-  - image_path: /assets/images/square.png
-  - image_path: /assets/images/square.png  
-
+  - 'https://ucarecdn.com/a05f85e7-5c82-4233-9c7a-c31c17505511~1/nth/0/'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet sapien vitae turpis molestie congue. Donec dictum sollicitudin magna, sed elementum nisi dapibus quis. Mauris scelerisque sapien urna, in suscipit tortor sodales vel. Suspendisse quis porta neque, ac tempor lectus. Quisque pharetra odio id augue aliquet, sed eleifend lorem tristique. Donec pretium sagittis ante, nec porttitor diam lacinia ut. Phasellus congue volutpat nunc eget aliquam. Fusce rutrum dui libero, a lobortis massa efficitur sed. Quisque at nisi augue.
