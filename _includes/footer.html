@@ -19,7 +19,11 @@
     </ul>
 </div>
 {% include newsletter.html %}
-<div class="row col-xs-12 between-xs">
-    <p class="meta">©{{ site.year }} {{ site.title }}</p>
-    <a class="meta" href="/privacy">Privacy Policy</a>
+<div class="row between-xs">
+    <div class="row col-xs-6 start-xs">
+        <p class="meta">©{{ site.year }} {{ site.title }}</p>
+    </div>
+    <div class="row col-xs-6 end-xs">
+        <a class="meta" href="/privacy/">Privacy Policy</a> &nbsp; • &nbsp; <a class="meta" href="/admin/">Login</a>
+    </div>
 </div>
