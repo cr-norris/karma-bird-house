@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: 6th Annual Karma Bird House
+title: 6th Annual Karma Bird House Holiday Party
 location: Maglianero Cafe
 start-date: 2018-12-21T00:00:00.000Z
 end-date: 2018-12-21T04:00:00.000Z
