@@ -6,7 +6,8 @@ description: >-
   Host your next meeting. We have 2 conference rooms available for rent to
   non-birds. One is on the roof overlooking the lake. Its perfect for an offiste
   meeting and offers endless natural inspiration over lake champlain.
-feature-image: /assets/images/meet.jpg
+feature-image:
+  - 'https://ucarecdn.com/5cf00b9c-8454-436d-a504-cb84a9cb01db~1/nth/0/'
 images:
   - 'https://ucarecdn.com/96d451d6-fa38-4800-b4fd-daad46dd5018~1/nth/0/'
 ---
