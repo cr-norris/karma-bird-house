@@ -5,7 +5,8 @@ order: 1
 description: >-
   Host an event. We have indoor and outdoor spaces for things like weddings,
   small conferences, parties. We can also help you make your event happen.
-feature-image: /assets/images/event.jpg
+feature-image:
+  - 'https://ucarecdn.com/61cf8a62-0eb7-4324-af1a-214b3c21770b~1/nth/0/'
 images:
   - 'https://ucarecdn.com/e6845cf7-ae35-47d2-97f4-87c05fa283d3~1/nth/0/'
 ---
