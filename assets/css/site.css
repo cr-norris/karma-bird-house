@@ -457,7 +457,7 @@ Banners & Text Areas
 
 
 .banner {
-    padding: 2rem 0;
+    padding-bottom: 1rem;
 }
 
 .banner .banner-title {
