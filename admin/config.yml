@@ -11,7 +11,6 @@ media_library:
 
 display_url: https://karmabird.house
 
-
 collections:
   - label: "Happenings"
     name: "happenings"
@@ -23,24 +22,12 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Roof Space"]}
+      - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Iskra Print Collective", "Karma Bird House Gallery", "Roof Top Space", "The Second Floor"]}
       - {label: "Start", name: "start-date", widget: "datetime"}
       - {label: "End", name: "end-date", widget: "datetime", required: false}
       - {label: "Feature Image", name: "feature-image", widget: "image"}
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-
-#  - label: "Pages"
-#    name: "pages"
-#    folder: "_pages"
-#    create: false
-#    editor:
-#      preview: false
-#    fields:
-#      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-#      - {label: "Title", name: "title", widget: "string"}
-#      - {label: "SEO Description", name: "description", widget: "text", required: false}
-#      - {label: "Exclude from Navigation", name: "exclude", widget: "boolean"}
 
   - label: "Directory"
     name: "directory"
