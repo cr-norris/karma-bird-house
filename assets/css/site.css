@@ -96,6 +96,13 @@ section#exhibition {
     background-color: #FFC923;
 }
 
+#contact-map {
+    min-height: 90vh;
+}
+
+#contact-map .banner {
+    padding: 1rem 0;
+}
 
 #space-features {
     padding-bottom: 3em;

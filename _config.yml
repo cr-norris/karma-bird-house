@@ -30,7 +30,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'all'
-  per_page: 20
+  per_page: 3
   permalink: '/page/:num/'
   title: ':title / :num'
   limit: 0
