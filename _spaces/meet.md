@@ -1,14 +1,14 @@
 ---
 layout: space
-order: 3
 title: Meet
-description: Host your next meeting. We have 2 conference rooms available for rent to non-birds. One is on the roof overlooking the lake. Its perfect for an offiste meeting and offers endless natural inspiration over lake champlain.
+order: 3
+description: >-
+  Host your next meeting. We have 2 conference rooms available for rent to
+  non-birds. One is on the roof overlooking the lake. Its perfect for an offiste
+  meeting and offers endless natural inspiration over lake champlain.
 feature-image: /assets/images/meet.jpg
 images:
-  - image_path: /assets/images/square.png
-  - image_path: /assets/images/square.png
-  - image_path: /assets/images/square.png  
-
+  - 'https://ucarecdn.com/96d451d6-fa38-4800-b4fd-daad46dd5018~1/nth/0/'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet sapien vitae turpis molestie congue. Donec dictum sollicitudin magna, sed elementum nisi dapibus quis. Mauris scelerisque sapien urna, in suscipit tortor sodales vel. Suspendisse quis porta neque, ac tempor lectus. Quisque pharetra odio id augue aliquet, sed eleifend lorem tristique. Donec pretium sagittis ante, nec porttitor diam lacinia ut. Phasellus congue volutpat nunc eget aliquam. Fusce rutrum dui libero, a lobortis massa efficitur sed. Quisque at nisi augue.
