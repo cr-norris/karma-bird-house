@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-
 <div class="row top-xs start-xs">
     <div class="col-sm-6 col-xs-12">
         {% for image in page.images %}
-        <img class="event-page-image" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+        <img class="event-page-image" src="{{ image }}"/>
         {% endfor %}
     </div>
-
     <div class="col-sm-6 col-xs-12">
-        <h1 class="banner-title">{{ page.name }} Space</h1>
+        <h1 class="banner-title">{{ page.title }} Space</h1>
         <h3 class="">{{ page.description }}</h3>
         <div class="text-area">
             {{ content }}
-        <a href="/contact/" class="row button">Contact</a>
+            <a href="/contact/" class="row button">Contact</a>
         </div>
     </div>
 </div>
