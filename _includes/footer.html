@@ -6,7 +6,7 @@
         <li><i class="far fa-thumbtack"></i>{{ site.address }}</li>
         <li><i class="far fa-envelope"></i>{{ site.email }}</li>
     </ul>
-    <ul class="col-sm-3 col-xs-12 end-xs">
+    <ul class="col-sm-3 col-xs-12 end-sm start-xs">
             {% assign pages = site.pages | sort: 'order' %}
             {% for node in pages %} {% unless node.exclude %} {% if page.url == node.url %}
             <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
@@ -14,7 +14,7 @@
             <li><a href="{{node.url}}">{{node.title}}</a></li>
             {% endif %} {% endunless %} {% endfor %}
     </ul>
-    <ul class="col-sm-3 col-xs-12 end-xs">
+    <ul class="col-sm-3 col-xs-12 end-sm start-xs">
         <a href="/archive/"><li>Archive</li></a>
         <a href="/contact/"><li>Contact</li></a>
         <a href="https://www.instagram.com/thekarmabirdhouse/" target="_blank"><li>Instagram</li></a>
