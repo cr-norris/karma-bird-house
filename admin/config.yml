@@ -30,17 +30,17 @@ collections:
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - label: "Pages"
-    name: "pages"
-    folder: "_pages"
-    create: false
-    editor:
-      preview: false
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "SEO Description", name: "description", widget: "text", required: false}
-      - {label: "Exclude from Navigation", name: "exclude", widget: "boolean"}
+#  - label: "Pages"
+#    name: "pages"
+#    folder: "_pages"
+#    create: false
+#    editor:
+#      preview: false
+#    fields:
+#      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+#      - {label: "Title", name: "title", widget: "string"}
+#      - {label: "SEO Description", name: "description", widget: "text", required: false}
+#      - {label: "Exclude from Navigation", name: "exclude", widget: "boolean"}
 
   - label: "Directory"
     name: "directory"
