@@ -631,34 +631,6 @@ card:after {
 }
 
 
-/*
-
-
-Event Page
-
-
-*/
-
-
-.event-page-title {
-    font-size: 3em;
-    line-height: 1.25em;
-    margin: 1em 0;
-}
-
-img.event-page-image {
-    margin-bottom: .5em;
-}
-
-img.event-page-image:last-child {
-    margin-bottom: 0;
-}
-
-.item-image {
-    padding: .75rem 1rem;
-}
-
-
 /* 
 
 
@@ -675,7 +647,7 @@ Directory
     border-bottom: 1px solid #00000030;
 }
 
-.directory-listin-name {
+.directory-listing-name {
     font-weight: 800;
 }
 

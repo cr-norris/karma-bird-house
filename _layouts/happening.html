@@ -10,27 +10,17 @@ collection: events
     </div>
     <div class="col-sm-6 col-xs-12">
         <ul class="meta">
-            <li>
-                {{ page.location }}
-            </li>
-            <li>
-                {{ page.start-date | date: '%B %d, %Y' }}
-            </li>
-            <li>
-                {{ page.start-date | date: '%r' }} – {{ page.end-date | date: '%r' }}
-            </li>
+            <li>{{ page.location }}</li>
+            <li>{{ page.start-date | date: '%B %d, %Y' }}</li>
+            <li>{{ page.start-date | date: '%r' }} – {{ page.end-date | date: '%r' }}</li>
         </ul>
         <div class="text-area">
-            <h1 class="banner-title">
-                {{ page.title }}
-            </h1>
-            <div>
-                {{ content }}
-            </div>
+            <h1 class="banner-title">{{ page.title }}</h1>
+            {{ content }}
         </div>
     </div>
 </section>
-<section id="event-gallery" class="row">
+<section class="row">
     {% for image in page.images %}
     <div class="item-image col-xs-6">
         <img src="{{ image }}" alt=""></img>
