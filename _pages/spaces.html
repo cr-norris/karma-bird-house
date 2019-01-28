@@ -4,15 +4,12 @@ exclude: false
 title: Spaces
 description: Host an event. Start a company. Collaborate beautifully. Make some prints. Rent a space.
 ---
-
-
-
 <div id="space-features" class="row start-xs top-xs">
     {% assign item = site.spaces | sort: 'order' %}
-        {% for item in item %}
-        <a href="{{ item.url }}" class="col-sm-4 col-xs-12 card">
-        	            <img src="{{ item.image }}"></img>
-        	            <div class="banner-title">{{ item.name }}</div>
+    {% for item in item %}
+    <a href="{{ item.url }}" class="col-sm-4 col-xs-12 card">
+        	            <img src="{{ item.feature-image }}"></img>
+        	            <div class="banner-title">{{ item.title }}</div>
             <p>{{ item.description }}</p>
         </a>
     {% endfor %}

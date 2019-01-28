@@ -1,10 +1,10 @@
 ---
 layout: space
 order: 2
-name: Work
+title: Work
 image: /assets/images/banner-image.png
 description: Rent your own space. We offer a combination of private, semi private and open air workspace monthly memberships. We currently have X spaces available.
-image: /assets/images/office.jpg
+feature-image: /assets/images/office.jpg
 images:
   - image_path: /assets/images/square.png
   - image_path: /assets/images/square.png

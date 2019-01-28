@@ -40,4 +40,24 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Space", name: "space", widget: "number"}       
       - {label: "Email", name: "email", widget: "string", required: false}         
-      - {label: "Website", name: "website", widget: "string", required: false}                  
+      - {label: "Website", name: "website", widget: "string", required: false}      
+
+  - label: "Spaces"
+    name: "space"
+    folder: "spaces"
+    label_singular: "Space"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "space"}
+      - {label: "Title", name: "title", widget: "string"}       
+      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Description", name: "description", widget: "text"}   
+      - {label: "Feature-image", name: "feature-image", widget: "image"}         
+      - {label: "Images", name: "images", widget: "image"}   
+      - {label: "Body", name: "body", widget: "markdown"}      
+
+
+
+

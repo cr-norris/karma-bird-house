@@ -1,9 +1,9 @@
 ---
 layout: space
 order: 1
-name: Event
+title: Event
 description: Host an event. We have indoor and outdoor spaces for things like weddings, small conferences, parties. We can also help you make your event happen.
-image: /assets/images/event.jpg
+feature-image: /assets/images/event.jpg
 images:
   - image_path: /assets/images/square.png
   - image_path: /assets/images/square.png
