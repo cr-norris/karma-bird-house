@@ -7,9 +7,9 @@ description: >-
   non-birds. One is on the roof overlooking the lake. Its perfect for an offiste
   meeting and offers endless natural inspiration over lake champlain.
 feature-image:
-  - 'https://ucarecdn.com/5cf00b9c-8454-436d-a504-cb84a9cb01db~1/nth/0/'
+  - 'https://ucarecdn.com/5b44f6a9-25f4-4fcb-a97d-43e6f75ad232~1/nth/0/'
 images:
-  - 'https://ucarecdn.com/96d451d6-fa38-4800-b4fd-daad46dd5018~1/nth/0/'
+  - 'https://ucarecdn.com/35935fa9-8561-489b-824c-630c4e521dbb~1/nth/0/'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet sapien vitae turpis molestie congue. Donec dictum sollicitudin magna, sed elementum nisi dapibus quis. Mauris scelerisque sapien urna, in suscipit tortor sodales vel. Suspendisse quis porta neque, ac tempor lectus. Quisque pharetra odio id augue aliquet, sed eleifend lorem tristique. Donec pretium sagittis ante, nec porttitor diam lacinia ut. Phasellus congue volutpat nunc eget aliquam. Fusce rutrum dui libero, a lobortis massa efficitur sed. Quisque at nisi augue.
