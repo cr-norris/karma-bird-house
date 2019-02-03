@@ -464,6 +464,10 @@ Banners & Text Areas
     margin: 1rem 0;
 }
 
+.banner .home-banner-title {
+    margin: 4rem 0;
+}
+
 .banner-title {
     font-family: neue-haas-grotesk-display, sans-serif;
     font-size: 3em;
