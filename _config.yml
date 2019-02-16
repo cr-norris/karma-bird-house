@@ -19,6 +19,8 @@ collections:
   happenings:
     output: true
     permalink: /happening/:title/
+  slider:
+    output: false
 
 markdown: kramdown
 theme:

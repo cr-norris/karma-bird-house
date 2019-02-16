@@ -56,7 +56,18 @@ collections:
       - {label: "Description", name: "description", widget: "text"}   
       - {label: "Feature-image", name: "feature-image", widget: "image"}         
       - {label: "Images", name: "images", widget: "image", required: false}   
-      - {label: "Body", name: "body", widget: "markdown"}                
+      - {label: "Body", name: "body", widget: "markdown"}  
+
+  - label: "Slider"
+    name: "slider"
+    folder: "_slider"
+    label_singular: "Space"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}       
+      - {label: "image", name: "image", widget: "image"}             
 
 
 
