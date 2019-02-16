@@ -449,11 +449,104 @@ footer .meta {
 
 /*
 
+Slick Rick
+
+*/
+
+.slide {
+    display: flex !important;
+    min-height: 75vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.slick-slider {
+    display: flex !important;
+}
+
+.home-slider h1 {
+    color: white;
+    text-align: center;
+    font-size: 6em;
+}
+
+.slick-dots {
+    display: flex !important;
+    position: absolute;
+    bottom: 1em;
+    color: transparent;
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+
+.slick-dots li button:before {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    content: '\f111';
+    text-align: center;
+    opacity: .5;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: 1;
+}
+
+.slick-arrow {
+    position: absolute !important;
+    z-index: 5;
+    color: white;
+}
+
+.slick-prev {
+    left: 1em;   
+    z-index: 99;
+}
+
+.slick-next {
+    right: 1em;   
+    z-index: 99;
+}
+
+/*
+
 
 Banners & Text Areas
 
 
 */
+
 
 
 .banner {
@@ -467,6 +560,7 @@ Banners & Text Areas
 #home-banner {
     margin: 4rem 0;
 }
+
 
 .banner-title {
     font-family: neue-haas-grotesk-display, sans-serif;

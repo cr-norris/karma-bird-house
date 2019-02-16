@@ -2,7 +2,7 @@ title: Karma Bird House
 year: 2018
 email: hello@karmabird.house
 address: 47 Maple St. Burlington, Vermont
-description: A compound of curious people, organizations, non-profits, community event spaces and a gallery. Home to Maglianero Cafe and Iskra Print Collective.
+description: A place where curiousities collide. Space for people, organizations, non-profits, community event spaces and a gallery. Home to Maglianero Cafe and Iskra Print Collective.
 baseurl: ""
 url: ""
 future: true
@@ -30,7 +30,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'all'
-  per_page: 3
+  per_page: 6
   permalink: '/page/:num/'
   title: ':title / :num'
   limit: 0

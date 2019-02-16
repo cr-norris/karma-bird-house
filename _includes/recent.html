@@ -1,7 +1,7 @@
 {% assign curDate = site.time | date: '%s' %}
 {% assign sorted = (site.happenings | sort: 'date') | reverse %}
 {% for item in sorted limit:6 %}
-{% assign postStartDate = item.start-date | date: '%s' %}
+{% assign postStartDate = item.end-date | date: '%s' %}
 {% if postStartDate <= curDate %} 
 <a href="{{ item.url }}" class="med-card row top-xs">
     <img src="{{ item.feature-image }}" class="med-card-image">

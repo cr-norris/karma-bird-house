@@ -27,6 +27,21 @@ $(".close").click(function() {
 });
 
 
+$(document).ready(function(){
+  $('#slider').slick({
+  dots: true,
+  infinite: true,
+  autoplay: true,
+  speed: 300,
+  slidesToShow: 1,
+  adaptiveHeight: true,
+  focusonchange: true,
+  prevArrow:"<i class='fas fa-chevron-left fa-2x slick-prev'></i>",
+  nextArrow:"<i class='fas fa-chevron-right fa-2x slick-next'></i>"
+  });
+});
+
+
 $("rect#yellow").click(function() {
     $("body, footer, #mobile-nav").css('background', "#FFC923")
 });
@@ -80,6 +95,8 @@ $("video").hover(function() {
         $("video").prop('muted', true);
     }
 });
+
+
 
 /*
 
