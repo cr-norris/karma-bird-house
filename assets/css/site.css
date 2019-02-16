@@ -993,4 +993,9 @@ Mobile Styles
     .meta {
         margin: 1em 0 2em 0;
     }
+
+    .slide-subtitle {
+        display: none;
+    }
+
 }
