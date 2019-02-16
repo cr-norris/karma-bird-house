@@ -26,6 +26,7 @@ collections:
       - {label: "Start", name: "start-date", widget: "datetime"}
       - {label: "End", name: "end-date", widget: "datetime", required: false}
       - {label: "Feature Image", name: "feature-image", widget: "image"}
+      - {label: "Vimeo", name: "vimeo", widget: "string", required: false}      
       - {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
