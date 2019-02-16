@@ -1,7 +1,7 @@
 ---
 layout: space
 title: Event
-order: 1
+order: 3
 description: >-
   Host an event. We have indoor and outdoor spaces for things like weddings,
   small conferences, parties. We can also help you make your event happen.

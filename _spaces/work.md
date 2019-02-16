@@ -1,7 +1,7 @@
 ---
 layout: space
 title: Work
-order: 2
+order: 1
 description: >-
   Rent your own space. We offer a combination of private, semi private and open
   air workspace monthly memberships. We currently have X spaces available.

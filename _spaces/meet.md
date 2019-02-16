@@ -1,7 +1,7 @@
 ---
 layout: space
 title: Meeting
-order: 3
+order: 2
 description: >-
   Host your next meeting. We have 2 conference rooms available for rent to
   non-birds. One is on the roof overlooking the lake. Its perfect for an offiste
