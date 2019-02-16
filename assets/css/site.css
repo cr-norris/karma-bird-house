@@ -469,6 +469,14 @@ Slick Rick
     opacity: .75;
 }
 
+.slide-subtitle {
+    opacity: 1;
+    background-color: white;
+    color: black;
+    padding: 1rem 1.5rem;
+    margin-top: 3em;
+}
+
 .slick-slider {
     display: flex !important;
 }
