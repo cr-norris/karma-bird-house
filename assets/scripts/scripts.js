@@ -11,21 +11,6 @@ var colors = [
 var $div = $('.button');
 var $navLinks = $('.nav-links, a');
 
-$('.button').mouseenter(function() {
-    var color = colors.shift();
-    colors.push(color);
-    $div.css({
-        "background-color": color
-    })
-});
-
-
-$(".close").click(function() {
-    $('.outside').toggleClass('in');
-    $('.bar').toggleClass('active');
-    $(this).toggleClass('is-showing');
-});
-
 
 $(document).ready(function(){
   $('#slider').slick({
@@ -39,6 +24,21 @@ $(document).ready(function(){
   prevArrow:"<i class='fas fa-chevron-left fa-2x slick-prev'></i>",
   nextArrow:"<i class='fas fa-chevron-right fa-2x slick-next'></i>"
   });
+});
+
+$('.button').mouseenter(function() {
+    var color = colors.shift();
+    colors.push(color);
+    $div.css({
+        "background-color": color
+    })
+});
+
+
+$(".close").click(function() {
+    $('.outside').toggleClass('in');
+    $('.bar').toggleClass('active');
+    $(this).toggleClass('is-showing');
 });
 
 
