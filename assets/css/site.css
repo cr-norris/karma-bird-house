@@ -916,6 +916,10 @@ Mobile Styles
     h1 {
         font-size: 2.5em !important;
     }
+
+    .slick-arrow {
+        display: none !important;
+    }
 }
 
 @media only screen and (max-width: 860px) {
