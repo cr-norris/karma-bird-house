@@ -601,10 +601,15 @@ Banners & Text Areas
 /* 
 
 
-Events 
+Happening 
 
 
 */
+
+.item-image {
+    padding: 1rem 0;
+
+}
 
 .archive-item {
     opacity: 1;
