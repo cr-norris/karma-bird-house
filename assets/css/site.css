@@ -461,6 +461,14 @@ Slick Rick
     background-size: cover;
 }
 
+.slide-text {
+    color: white;
+}
+
+.slide-text:hover {
+    opacity: .75;
+}
+
 .slick-slider {
     display: flex !important;
 }
@@ -725,6 +733,7 @@ card:after {
     font-size: 1.5em;
     padding: .25em 0 .25em 0;
     font-weight: 800;
+    padding: 1rem 0;
 }
 
 .med-card:hover {

@@ -66,6 +66,7 @@ collections:
       preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Link", name: "link", widget: "string"}       
       - {label: "image", name: "image", widget: "image"}             
 
