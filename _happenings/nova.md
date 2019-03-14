@@ -2,8 +2,8 @@
 layout: happening
 title: 'Nova: A new clear, new year for Highlight Burlington'
 location: Maglianero Cafe
-start-date: 2018-12-31T020:00:00.000Z
-end-date: 2019-01-01T02:00:00.000Z
+start-date: 2019-01-01T01:00:00.000Z
+end-date: 2019-01-01T06:00:00.000Z
 feature-image:
   - 'https://ucarecdn.com/5178ba9f-c1c3-419f-9065-745a4a5d8905~1/nth/0/'
 images:
@@ -20,13 +20,16 @@ images:
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/10/'
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/11/'
 ---
+Climb into the sunset of 2018 at the Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors.
 
-Suspend your disbelief and climb into the sunset of 2018 at the Karma Bird House for a metamorphic evening filled with warm sights, glowing sounds and dream flavors. Welcome 2019 with an experiment in wellness and wellbeing – let conversation and good karma unfold.
+From 8pm–1am this sensory symphony will reverberate through Maglianero as the cafe serves a series of experimental offerings to bring joy to your palette. A transcendent soundscape will transform the room as quiet music plays loudly and loud music plays quietly — always leaving room for conversation and curiosity. Relax and drink up the lights, sounds, and sights (no champagne nor countdowns here).
 
-From 7pm–1am a sensory symphony of lights, delights, sounds and sights will reverberate through Maglianero as a series experimental drink offerings test the palette. A transcendent soundscape will transform the room as quiet music plays loudly and loud music quietly — always leaving room for conversation and curiosity.
+Throughout the night, a sequence of fleeting popup performances will take shape hourly — folding in layers of music, dance, and visual art.
 
 Good karma only — a new clear, new year.
 
-The symphony be supported by artists including: Greg Davis, Matt Hastings, Lydia Kern, Sage Horsey, Cleo Cello, Wren Kitz, Amelia Devoid, Inspirational United, Oxbow, Solidarity of Unbridled Labor, etc.
 
 
+Possibilities by: Cleo Flemming, Gahlord Dewald, Giovanna Jager, Julia Maisto, Lauren Costello, Lucy Prouty, Michael Jager, Sage Horsey, Alder Studio, Maglianero, & You.
+
+This event is part of Highlight, Burlington's new New Year's Eve city-wide celebration.
