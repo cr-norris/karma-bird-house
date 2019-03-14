@@ -17,5 +17,3 @@ images:
 On Friday, February 8th at 12:57pm, Clark Derbes arrived in Maglianero with a bucket of pink paint, two paint rollers, a seltzer, and his six-year old daughter. The cafe was full of people chatting, meeting, drinking coffee – typical for a Friday at Maglianero. Clark spent the next two hours and thirty-two minutes painting the gallery wall.
 
 Come see this treat for yourself, up now until the real spring rolls around.
-
-Derbes is a Louisiana-born, Vermont-based artist. See more of his work [here](https://www.instagram.com/selfcommissioned/).
