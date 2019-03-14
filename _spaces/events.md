@@ -3,8 +3,9 @@ layout: space
 title: Event
 order: 3
 description: >-
-  Host an event. We have indoor and outdoor spaces for things like weddings,
-  small conferences, parties. We can also help you make your event happen.
+  Host an event. Throw a party. We have indoor and outdoor spaces for things
+  like weddings, small conferences, and private parties. Not sure how to throw a
+  party? We can help you with that.
 feature-image:
   - 'https://ucarecdn.com/e96f8b94-7af6-4559-82e0-82e99b867302~1/nth/0/'
 images:
