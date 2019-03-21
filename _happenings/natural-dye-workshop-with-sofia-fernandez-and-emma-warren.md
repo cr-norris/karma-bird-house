@@ -25,6 +25,8 @@ This one day workshop will introduce beginner dyers to the concepts and practice
 
 We’ll experiment with several dye baths, including food waste vats using avocado pits and red onion skins, an indigo vat, and a vat made with Mexican cochineal bugs. 
 
+****
+
 **Sofia Fernandez Diaz** is an artist from Mexico City. She is based in Oaxaca, Mexico where she continues her search and experimentation with materials, color and traditional artisanal techniques. She specializes in making natural pigments and dyes.
 
 **Emma Warren** is a textile and clothing designer based in downtown Burlington. Her work focuses on small batch and one of a kind goods that are handmade, hand woven and hand dyed using natural materials and environmentally conscious practices.
