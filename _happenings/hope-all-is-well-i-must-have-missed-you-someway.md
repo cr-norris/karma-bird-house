@@ -7,8 +7,7 @@ end-date: 2019-02-17T04:00:00.000Z
 feature-image:
   - 'https://ucarecdn.com/ca113b3d-22d1-4997-a0c5-d48e56ad04d6~1/nth/0/'
 ---
-I Must Have Missed You Someway\
-With: The Human Fly, Ivamae, Adam Wolf\
+Featuring: The Human Fly, Ivamae, Adam Wolf\
 $7 at the door
 
 **The Human Fly** is probably indie-soft-rock, but hates that term and is slowly working up to the stage of acceptance.
