@@ -10,7 +10,8 @@ images: ''
 ---
 **Gahlord Dewald** is an experimental double-bassist and co-founder of Community of Sound. 
 
+****
 
+**About the Series**
 
-**About the Series**\
 AM Frequency is a monthly morning series of experimental music in collaboration with Community of Sound in Maglianero Cafe. Free and open to the public. Start with sound – and coffee.
