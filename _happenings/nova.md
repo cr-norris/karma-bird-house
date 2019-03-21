@@ -22,14 +22,12 @@ images:
 ---
 Climb into the sunset of 2018 at the Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors.
 
-From 8pm–1am this sensory symphony will reverberate through Maglianero as the cafe serves a series of experimental offerings to bring joy to your palette. A transcendent soundscape will transform the room as quiet music plays loudly and loud music plays quietly — always leaving room for conversation and curiosity. Relax and drink up the lights, sounds, and sights (no champagne nor countdowns here).
-
 Throughout the night, a sequence of fleeting popup performances will take shape hourly — folding in layers of music, dance, and visual art.
 
 Good karma only — a new clear, new year.
 
-
-
 Possibilities by: Cleo Flemming, Gahlord Dewald, Giovanna Jager, Julia Maisto, Lauren Costello, Lucy Prouty, Michael Jager, Sage Horsey, Alder Studio, Maglianero, & You.
 
-This event is part of Highlight, Burlington's new New Year's Eve city-wide celebration.
+
+
+This event is part of Highlight, Burlington’s New Year’s Eve city-wide celebration.
