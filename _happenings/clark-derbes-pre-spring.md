@@ -14,6 +14,8 @@ images:
   - 'https://ucarecdn.com/393b2185-ec1d-4199-b0f9-641e36978ced~5/nth/3/'
   - 'https://ucarecdn.com/393b2185-ec1d-4199-b0f9-641e36978ced~5/nth/4/'
 ---
-On Friday, February 8th at 12:57pm, Clark Derbes arrived in Maglianero with a bucket of pink paint, two paint rollers, a seltzer, and his six-year old daughter. The cafe was full of people chatting, meeting, drinking coffee – typical for a Friday at Maglianero. Clark spent the next two hours and thirty-two minutes painting the gallery wall.
+Clark Derbes is a Louisiana-born Vermont artist. From Burlington to Baton Rouge, Derbes is best-known for his multi-colored murals made with paint-rollers – often found on the sides of old buildings, filling truck yards, dotting skateparks.
 
-Come see this treat for yourself, up now until the real spring rolls around.
+
+
+Come see this treat for yourself, up until the real spring rolls around.
