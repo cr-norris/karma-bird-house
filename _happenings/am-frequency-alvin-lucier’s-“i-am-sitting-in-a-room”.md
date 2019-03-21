@@ -9,8 +9,7 @@ feature-image:
 ---
 **Adrienne Coopersmith, Gahlord Dewald, and Ben Mayock** will perform Alvin Lucier’s “I am Sitting in a Room”. Composed in 1969, the piece is equal parts sound art and experiment as it loops, layers, and records sounds from the space in which it takes place.
 
-****
-
+****\
 **About the Series**
 
 AM Frequency is a monthly morning series of experimental music in collaboration with Community of Sound in Maglianero Cafe. Free and open to the public. Start with sound – and coffee.
