@@ -9,7 +9,4 @@ feature-image:
 ---
 **Earthquake Voyage** is an electro-ambient trio of composer Adam Ploof, saxophonist Mollie Coons, and bassist/modular synthesist Gahlord Dewald. 
 
-
-
-**About the Series**\
-AM Frequency is a monthly morning series of experimental music in collaboration with Community of Sound in Maglianero Cafe. Free and open to the public. Start with sound – and coffee.
+**AM Frequency** is a monthly morning series of experimental music in collaboration with Community of Sound in Maglianero Cafe. Free and open to the public. Start with sound – and coffee.
