@@ -36,7 +36,7 @@ pagination:
   permalink: '/page/:num/'
   title: ':title / :num'
   limit: 0
-  sort_field: 'date'
+  sort_field: 'start-date'
   sort_reverse: true
   category: 'posts'
   tag: ''
