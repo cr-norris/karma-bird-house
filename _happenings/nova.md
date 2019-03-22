@@ -3,7 +3,6 @@ layout: happening
 title: 'Nova: A new clear, new year'
 location: Maglianero Cafe
 start-date: 2019-01-01T01:00:00.000Z
-end-date: 2019-01-01T06:00:00.000Z
 feature-image:
   - 'https://ucarecdn.com/5178ba9f-c1c3-419f-9065-745a4a5d8905~1/nth/0/'
 images:
