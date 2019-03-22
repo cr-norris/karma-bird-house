@@ -20,12 +20,12 @@ collection: events
                 {% if postEndDate %}
                 – {{ postEndDate | date: '%B %d, %Y' }}
                 {% endif %}
-            </li>
-            <li>                
+            </li>              
                 {% if postTime %}
+            <li>  
                 {{ postTime }}
-                {% endif %}
             </li>
+                {% endif %}
         </ul>
         <div class="large-card-title">{{ item.title }}</div>
         <div class="text-area">
