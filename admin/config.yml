@@ -25,6 +25,7 @@ collections:
       - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Iskra Print Collective", "Karma Bird House Gallery", "Roof Top Space", "The Second Floor"]}
       - {label: "Start", name: "start-date", widget: "date"}
       - {label: "End", name: "end-date", widget: "date", required: false}
+      - {label: "Time", name: "time", widget: "string", required: false}
       - {label: "Feature Image", name: "feature-image", widget: "image"}
       - {label: "Vimeo", name: "vimeo", widget: "string", required: false}      
       - {label: "Images", name: "images", widget: "image", required: false}
