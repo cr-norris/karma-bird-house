@@ -14,10 +14,16 @@ collection: events
             <li>{{ page.location }}</li>
             {% assign postStartDate = page.start-date | date: '%s' %}
             {% assign postEndDate = page.end-date | date: '%s' %}
+            {% assign postTime = page.time %}
             <li>
                 {{ postStartDate | date: '%B %d, %Y' }}
                 {% if postEndDate %}
                 – {{ postEndDate | date: '%B %d, %Y' }}
+                {% endif %}
+            </li>
+            <li>                
+                {% if postTime %}
+                {{ postTime }}
                 {% endif %}
             </li>
         </ul>
