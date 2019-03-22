@@ -3,7 +3,7 @@ layout: happening
 title: 'AM Frequency: Earthquake Voyage'
 location: Maglianero Cafe
 start-date: 2019-03-22T13:30:00.000Z
-end-date: 2019-03-22T12:22:36.490Z
+end-date: ''
 feature-image:
   - 'https://ucarecdn.com/98a45f6d-ab87-458b-b37e-cee2ae634cc1~1/nth/0/'
 ---
