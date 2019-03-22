@@ -1,16 +1,19 @@
 {% assign curDate = site.time | date: '%s' %}
 {% assign sorted = (site.happenings | sort: 'date') | reverse %}
-{% for item in sorted limit:4 %}
-{% assign postEndDate = item.end-date | date: '%s' %}
-{% if postEndDate <= curDate %} 
+{% for item in sorted limit:3 %}
+{% assign postStartDate = item.start-date | date: '%s' %}
+{% if postStartDate <= curDate %} 
+
 <a href="{{ item.url }}" class="med-card row top-xs">
-    <img src="{{ item.feature-image }}" class="med-card-image">
+    <img src="{{ item.feature-image }}" class="med-card-image"></img>
     <div class="med-card-what">
         <div class="med-card-title">{{ item.title }}</div>
     </div>
-    </a>
-    {% endif %}
-    {% endfor %}
-    <a class="button row middle-xs" href="/archive/">Archive</i></a>
-    <br>
+</a>
+
+{% endif %}
+{% endfor %}
+
+<a class="button row middle-xs" href="/archive/">Archive</i></a>
+<br>
 </div>

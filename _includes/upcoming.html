@@ -1,18 +1,41 @@
 {% assign curDate = site.time | date: '%s' %}
-{% assign sorted = (site.happenings | sort: 'date')x %}
+{% assign sorted = (site.happenings | sort: 'date') %}
+
 {% for item in sorted %}
-{% assign postStartDate = item.end-date | date: '%s' %}
-{% if postStartDate >= curDate %}
+
+{% assign postStartDate = item.start-date | date: '%s' %}
+{% assign postEndDate = item.end-date | date: '%s' %}
+
+{% if postEndDate >= curDate %}
 <a href="{{ item.url }}" class="large-card row top-xs">
     <img src="{{ item.feature-image }}" class="large-card-image">
-        <div class="large-card-what">  
+    <div class="large-card-what">
         <ul class="meta">
             <li>{{ item.location }}</li>
-            <li>{{ item.start-date | date: '%B %d, %Y' }}</li>
-        </ul>  
+            <li>
+                {{ postStartDate | date: '%B %d' }}
+                {% if postEndDate %}
+                – {{ postEndDate | date: '%B %d, %Y' }}
+                {% endif %}
+            </li>
+        </ul>
         <div class="large-card-title">{{ item.title }}</div>
 
-        </div>
-    </a>
+    </div>
+</a>
+{% elsif postStartDate >= curDate %}
+<a href="{{ item.url }}" class="large-card row top-xs">
+    <img src="{{ item.feature-image }}" class="large-card-image">
+    <div class="large-card-what">
+        <ul class="meta">
+            <li>{{ item.location }}</li>
+            <li>
+                {{ postStartDate | date: '%B %d, %Y' }}
+            </li>
+        </ul>
+        <div class="large-card-title">{{ item.title }}</div>
+    </div>
+</a>
 {% endif %}
+
 {% endfor %}

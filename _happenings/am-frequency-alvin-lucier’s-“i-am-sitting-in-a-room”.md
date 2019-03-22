@@ -3,7 +3,6 @@ layout: happening
 title: 'AM Frequency: Alvin Lucier’s “I am Sitting in a Room”'
 location: Maglianero Cafe
 start-date: 2019-02-27T12:30:00.000Z
-end-date: 2019-02-27T14:30:00.000Z
 feature-image:
   - 'https://ucarecdn.com/31afe034-4b7d-4153-bbdb-937b260deff0~1/nth/0/'
 ---
