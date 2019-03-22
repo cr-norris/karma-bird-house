@@ -3,8 +3,9 @@ layout: happening
 title: 'AM Frequency: Earthquake Voyage'
 location: Maglianero Cafe
 start-date: 2019-03-22T13:30:00.000Z
+end-date: 2019-03-22T12:22:36.490Z
 feature-image:
-  - 'https://ucarecdn.com/5cdfa8fc-e8bb-40b8-b781-140329eee57d~1/nth/0/'
+  - 'https://ucarecdn.com/98a45f6d-ab87-458b-b37e-cee2ae634cc1~1/nth/0/'
 ---
 **Earthquake Voyage** is an electro-ambient trio of composer Adam Ploof, saxophonist Mollie Coons, and bassist/modular synthesist Gahlord Dewald. 
 
