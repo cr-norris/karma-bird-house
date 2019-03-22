@@ -10,11 +10,22 @@ order: 2
         <p class="col-sm-10 col-xs-8 meta">Name</p>
         <p class="col-sm-1 col-xs-2 end-xs meta">Website</p>
     </div>
+
+
     {% for company in site.directory %}
+    {% if company.website %}
     <a class="row start-xs directory-listing" href="{{ company.website }}" target="_blank">
         <p class="col-sm-1 col-xs-2">{{ company.space }}</p>
         <p class="directory-listing-name col-sm-10 col-xs-8">{{ company.title }}</p>
-        <div class="col-sm-1 col-xs-2 end-xs" href="{{ company.website }}" target="_blank"><i class="far fa-external-link-square"></i></div>
+        <div class="col-sm-1 col-xs-2 end-xs"><i class="far fa-external-link-square"></i></div>
     </a>
+
+    {% else %}
+
+    <div class="row start-xs directory-listing">
+        <p class="col-sm-1 col-xs-2">{{ company.space }}</p>
+        <p class="directory-listing-name col-sm-10 col-xs-8">{{ company.title }}</p>
+    </div>
+    {% endif %}
     {% endfor %}
 </div>

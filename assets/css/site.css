@@ -795,7 +795,7 @@ Directory
     box-shadow: none !important;
 }
 
-.directory-listing:hover {
+a.directory-listing:hover {
     box-shadow: 0px 1px 0px black;
 }
 
