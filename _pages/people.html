@@ -1,0 +1,41 @@
+---
+layout: default
+exclude: true
+title: People
+description: The humans behind Karma.
+---
+
+<div class="row start-xs middle-xs">
+    <div class="row half start-xs">
+        <p class="col-xs-9">The Karma Bird House team is made up of a group of friends and collaborators who maintain, program, and manage the building for continued public and private uses. Their common purpose is create a place where people feel inspired, safe, and part of a community. The team consists of building owners Michael and Giovanna Jager, supported by Chris & Jasmine and their studio, Alder. With the help of several like-minded volunteers, building members and collaborators, Karma has continued to produce hundreds of happenings, openings, parties, and experiences for over a decade.</p>
+        <h1 class="col-xs-9"><b>Who</b></h1>
+    </div>
+
+<div class="row start-xs bottom-xs">
+    {% assign people = site.people | sort:'order' %}
+    {% for person in people %}
+    {% if person.website %}
+    <a href="{{ person.website }}" target="_blank" class="person-card col-xs-6">
+        <ul>
+            <li><b>{{ person.name }}</b></li>
+            {% if person.email %}
+            <li>{{ person.email }}</li>
+            {% endif %}
+            <li>{{ person.company }} <i class="far fa-external-link-square-alt"></i></li>
+        </ul>
+    </a>
+
+    {% else %}
+
+    <div class="person-card col-xs-6">
+    <ul>
+        <li><b>{{ person.name }}</b></li>
+            {% if person.email %}
+            <li>{{ person.email }}</li>
+            {% endif %}
+        <li>{{ person.company }}</li>
+    </ul>
+	</div>
+    {% endif %}
+    {% endfor %}
+</div>

@@ -11,6 +11,8 @@ collections:
   pages:
     output: true
     permalink: /:title/
+  people:
+    output: false  
   directory:
     output: false
   spaces:

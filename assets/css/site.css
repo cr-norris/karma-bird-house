@@ -197,6 +197,10 @@ p a {
     }
 }
 
+li a:hover {
+    opacity: .4;
+}
+
 p a:hover {
     opacity: .4;
 }
@@ -225,6 +229,7 @@ ul {
 
 li {
     list-style: none;
+    padding: .125em;
 }
 
 li i {
@@ -752,6 +757,13 @@ card:after {
     width: 100%;
 }
 
+.person-card {
+    padding: 2.5vh;
+}
+
+.person-card a {
+    min-height: 30vh;
+}
 
 /* 
 
