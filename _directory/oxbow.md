@@ -1,7 +1,7 @@
 ---
 title: Oxbow
-space: '003'
-email: robot@oxbowcreative.com
+space: 111
+email: evan@oxbowcreative.com
 website: 'https://www.oxbow.co'
 ---
 
