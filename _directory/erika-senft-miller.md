@@ -1,7 +1,7 @@
 ---
 title: Erika Senft Miller
-space: '301'
-email: hello@erikasenftmiller.com
-website: 'https://erikasenftmiller.com'
+space: 316
+email: 'erikasenftmiller@gmail.com '
+website: 'https://erikasenftmiller.com/'
 ---
 
