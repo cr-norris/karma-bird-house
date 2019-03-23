@@ -3,18 +3,27 @@ layout: space
 title: Event
 order: 3
 description: >-
-  Host an event. Throw a party. We have indoor and outdoor spaces for things
-  like weddings, small conferences, and private parties. Not sure how to throw a
-  party? We can help you with that.
+  Our historic 1916 converted warehouse has a number of indoor and outdoor
+  spaces for things like parties, weddings, conferences, lectures and pretty
+  much anything else you can dream up. Not sure how to throw a party? We do, and
+  we'd love to help.
 feature-image:
   - 'https://ucarecdn.com/e96f8b94-7af6-4559-82e0-82e99b867302~1/nth/0/'
 images:
   - 'https://ucarecdn.com/1b5e65ad-3cf9-4717-af06-7924112de30e~1/nth/0/'
 ---
-Host an event. Throw a party. We have indoor and outdoor spaces for things like weddings, small conferences, and private parties. Not sure how to throw a party? We can help you with that.
+### Over 20 years of hosting, planning, and running events with our friends we've seen these historic spaces support a spectrum of functions and needs. From the practical to the imaginative, we're always curious and excited to see what comes next.
 
-* Maglianero Cafe
-* Rooftop space
-* Outdoor lawn
+Need space? Our available spaces include:
 
-Aenean vulputate ligula in elit laoreet, sit amet imperdiet arcu gravida. Pellentesque non nisi sit amet tortor egestas pulvinar. In laoreet congue imperdiet. Ut aliquam, urna eu vulputate ullamcorper, nunc tortor lobortis neque, sit amet rhoncus libero ante non arcu. Nulla et nunc ante. Suspendisse egestas nisi in arcu dapibus sodales. Mauris facilisis lobortis lectus eget auctor. Integer tincidunt ligula ante, et dapibus leo congue vel. Nullam ut porta velit. Fusce dapibus egestas diam in tincidunt. Mauris ut sollicitudin metus.
+* **Maglianero Cafe &  Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space which commonly hosts larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and a vaulted ceiling.
+* **The Roof Space:** isa fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and its own bathroom, the Roof Space is an awe inspiring place to host a next meeting or offsite
+* **The Side Space:** a flexible, private, 1,200 square foot outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate and vibe perfect for classes, workshops or outdoor film nights.
+
+The list of the available options and ammenities can vary greatly from event to event but some options include: 
+
+* Private parking behind the building
+* Ample on-street parking access
+* Food and drink services
+* Support in event management and planning
+* Event security
