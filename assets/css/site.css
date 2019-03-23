@@ -261,54 +261,6 @@ hr {
     border: .5px solid #00000015;
 }
 
-/*
-
-
-Buttons
-
-
-*/
-
-.button {
-    font-size: 2em;
-    font-weight: 800;
-    padding: 1em;
-    background-color: black !important;
-    color: white;
-    border: none;
-}
-
-@keyframes color-animation {
-    0% {
-        background: #FFC923;
-    }
-
-    20% {
-        background: #F58A23;
-    }
-
-    40% {
-        background: #E65264
-    }
-
-    60% {
-        background: #E66FC1
-    }
-
-    80% {
-        background: #4FBC48
-    }
-
-    100% {
-        background: #3FC0FF
-    }
-}
-
-.button:hover {
-    animation: color-animation 1s infinite;
-}
-
-
 /* 
 
 
@@ -340,6 +292,24 @@ Structural
     display: flex;
     min-height: 25vh;
     clear: both;
+}
+
+
+/* 
+
+
+Site Title
+
+
+*/
+
+.site-title {
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    max-width: 1200px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
 }
 
 /* 
@@ -407,24 +377,6 @@ Navigation
 }
 
 
-/* 
-
-
-Site Title
-
-
-*/
-
-.site-title {
-    font-family: "neue-haas-grotesk-display", sans-serif;
-    max-width: 1200px;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: black;
-    font-weight: 800;
-}
-
-
 /*
 
 
@@ -460,13 +412,63 @@ footer .meta {
 
 /*
 
+
+Buttons
+
+
+*/
+
+.button {
+    font-size: 2em;
+    font-weight: 800;
+    padding: 1em;
+    margin: 1.5em 0 !important
+    background-color: black !important;
+    color: white;
+    border: none;
+}
+
+@keyframes color-animation {
+    0% {
+        background: #FFC923;
+    }
+
+    20% {
+        background: #F58A23;
+    }
+
+    40% {
+        background: #E65264
+    }
+
+    60% {
+        background: #E66FC1
+    }
+
+    80% {
+        background: #4FBC48
+    }
+
+    100% {
+        background: #3FC0FF
+    }
+}
+
+.button:hover {
+    animation: color-animation 1s infinite;
+}
+
+
+
+/*
+
 Slick Rick
 
 */
 
 .slide {
     display: flex !important;
-    min-height: 75vh;
+    min-height: 50vh;
     width: 100%;
     background-size: cover;
 }
