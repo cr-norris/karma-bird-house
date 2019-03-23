@@ -29,6 +29,4 @@ Additionally we offer a number of additional services to support different needs
 * An office cleaning service
 * Color copier and printer
 * On-site parking 
-* Rooftop conference space
-
-There are a few spaces currently available, but in case we don't have exactly what you're looking for we maintain a wait-list and notify people based on availabilities and needs. Please contact Giovanna for more info on how to sign up.
+* Rooftop conference space access
