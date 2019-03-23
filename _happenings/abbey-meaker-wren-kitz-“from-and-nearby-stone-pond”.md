@@ -9,4 +9,8 @@ feature-image:
 ---
 _From and Nearby Stone Pond_ – Marlborough, New Hampshire, Recorded Fall 2018, Video: 8mm, Audio: ¼ tape
 
-**Abbey Meaker and Wren Kitz** built an installation of analog-recorded video and sound, collected over one year in Marlborough, New Hampshire. Somewhere between scientific documentation and art – a portal to a time and place.
+**Abbey Meaker and Wren Kitz** built an installation of analog-recorded video and sound, collected over one year in Marlborough, New Hampshire.
+
+From Abbey: With Wren’s work in field recording and mine in filmmaking, we wondered if we could further blur the lines between scientific documentation and art. Our shared interest in the physical processes of recording natural phenomena — sound and light — with the material qualities of film and tape means we use analog equipment: a Nagra 111 for Wren and a Canon 310XL 8mm camera for me. 
+
+We consider this installation a draft of sorts, generated from materials we’ve gathered together over the past year. In this shared experience of place, our presence as observers and collaborators is present but not omnipresent: our hope is to give the viewer their own, personal encounter with a place and time that we feel deeply.
