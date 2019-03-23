@@ -30,5 +30,3 @@ There are number of additional options, including:
 * On-site parking 
 * Office cleaning
 * Rooftop space access
-
-There are a few spaces currently available, but in case we don't have exactly what you're looking for we maintain a wait-list and notify people based on availabilities and needs. Please contact Giovanna for more info on how to sign up.
