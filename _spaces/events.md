@@ -4,8 +4,7 @@ title: Event
 order: 3
 description: >-
   Choose from a number of indoor and outdoor spaces available for things like
-  parties, weddings, conferences, lectures, and pretty much anything else you
-  can dream up. 
+  parties, weddings, conferences, or anything else you can dream up. 
 feature-image:
   - 'https://ucarecdn.com/e96f8b94-7af6-4559-82e0-82e99b867302~1/nth/0/'
 images:
