@@ -197,11 +197,6 @@ p a {
     }
 }
 
-.large-links {
-    font-size: 1.5em;
-    line-height: 1.4em;
-}
-
 
 li a:hover {
     opacity: .4;
@@ -218,6 +213,10 @@ p a:hover {
     margin: 4rem 0;
 }
 
+ul.large-links {
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
 
 .meta {
     opacity: .4;
