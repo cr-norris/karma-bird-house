@@ -13,9 +13,7 @@ images:
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.  
 
-We offer over 50 studios and offices ranging in size from single person spaces to spaces with their own conference rooms, and kitchenettes for larger groups. The building is secure and safe with 24-hour digital key card access for building tenants. Every floor offers comfortably appointed and open shared common areas designed to enhance the natural community connections that the building was created for.
-
-Other standard amenities include:
+We offer over 50 studios and offices ranging in size from single person spaces to spaces with their own conference rooms, and kitchenettes for larger groups. The building is secure and safe with 24-hour digital key card access for building tenants. Every floor offers comfortably appointed and open shared common areas designed to enhance the natural community connections that the building was created for. Other standard amenities include:
 
 * Wifi included
 * 24-hour access to secure building for leased office spaces
