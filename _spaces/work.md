@@ -11,21 +11,26 @@ feature-image:
 images:
   - 'https://ucarecdn.com/f7dfcbe6-e40b-4e20-b2a0-d8b493efe940~1/nth/0/'
 ---
+### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet sapien vitae turpis molestie congue. Donec dictum sollicitudin magna, sed elementum nisi dapibus quis. Mauris scelerisque sapien urna, in suscipit tortor sodales vel. Suspendisse quis porta neque, ac tempor lectus. Quisque pharetra odio id augue aliquet, sed eleifend lorem tristique. Donec pretium sagittis ante, nec porttitor diam lacinia ut. Phasellus congue volutpat nunc eget aliquam. Fusce rutrum dui libero, a lobortis massa efficitur sed. Quisque at nisi augue.
+We offer over 50 studios and offices ranging in size from single person spaces to spaces with their own conference rooms, and kitchenettes for larger groups. The building is secure and safe with 24-hour digital key card access for building tenants. Every floor offers comfortably appointed and open shared common areas designed to enhance the natural community connections that the building was created for.
 
-- Wifi included
-- 24-hour access to secure building for leased office spaces
-- Dedicated business address and mailboxes
-- Common areas and conference rooms
-- Daily shipping and courier pickup
-- Kitchen space with open seating
-- Indoor and outdoor bike parking
-- Showers and locker rooms
+Other standard amenities include:
 
-Aenean vulputate ligula in elit laoreet, sit amet imperdiet arcu gravida. Pellentesque non nisi sit amet tortor egestas pulvinar. In laoreet congue imperdiet. Ut aliquam, urna eu vulputate ullamcorper, nunc tortor lobortis neque, sit amet rhoncus libero ante non arcu.
+* Wifi included
+* 24-hour access to secure building for leased office spaces
+* Dedicated business address and mailboxes
+* Common areas and conference rooms
+* Daily shipping and courier pickup
+* Kitchen space with open seating
+* Indoor and outdoor bike parking
+* Showers and locker rooms
 
-- Office cleaning service
--  Color copier and printer
-- On-site parking available
-- Rooftop Conference Apace
+Additionally we offer a number of additional services to support different needs, these include:
+
+* An office cleaning service
+* Color copier and printer
+* On-site parking 
+* Rooftop conference space
+
+There are a few spaces currently available, but in case we don't have exactly what you're looking for we maintain a wait-list and notify people based on availabilities and needs. Please contact Giovanna for more info on how to sign up.
