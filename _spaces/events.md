@@ -3,9 +3,9 @@ layout: space
 title: Event
 order: 3
 description: >-
-  Our historic converted warehouse has a number of indoor and outdoor spaces
-  available for things like parties, weddings, conferences, lectures and pretty
-  much anything else you can dream up. 
+  Choose from a number of indoor and outdoor spaces available for things like
+  parties, weddings, conferences, lectures, and pretty much anything else you
+  can dream up. 
 feature-image:
   - 'https://ucarecdn.com/e96f8b94-7af6-4559-82e0-82e99b867302~1/nth/0/'
 images:
