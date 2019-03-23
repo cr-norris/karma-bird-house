@@ -19,7 +19,7 @@ images:
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/10/'
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/11/'
 ---
-Climb into the sunset of 2018 at the Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors.
+Climb into the sunset of 2018 at Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors.
 
 Throughout the night, a sequence of fleeting popup performances will take shape hourly — folding in layers of music, dance, and visual art.
 
