@@ -20,10 +20,4 @@ Need space? Our available spaces include:
 * **The Roof Space:** isa fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and its own bathroom, the Roof Space is an awe inspiring place to host a next meeting or offsite
 * **The Side Space:** a flexible, private, 1,200 square foot outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate and vibe perfect for classes, workshops or outdoor film nights.
 
-The list of the available options and ammenities can vary greatly from event to event but some options include: 
-
-* Private parking behind the building
-* Ample on-street parking access
-* Food and drink services
-* Support in event management and planning
-* Event security
+The list of the available options and amenities can vary greatly from event to event but some options include private parking behind the building, event planning and management support, security, and A/V.
