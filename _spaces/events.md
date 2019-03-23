@@ -3,8 +3,8 @@ layout: space
 title: Event
 order: 3
 description: >-
-  Our historic 1916 converted warehouse has a number of indoor and outdoor
-  spaces for things like parties, weddings, conferences, lectures and pretty
+  Our historic converted warehouse has a number of indoor and outdoor spaces
+  available for things like parties, weddings, conferences, lectures and pretty
   much anything else you can dream up. Not sure how to throw a party? We do, and
   we'd love to help.
 feature-image:
@@ -16,8 +16,8 @@ images:
 
 Have an idea but need some space? Let's make it happen.
 
-* **Maglianero Cafe &  Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space which commonly hosts larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and a vaulted ceiling.
-* **The Roof Space:** isa fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and its own bathroom, the Roof Space is an awe inspiring place to host a next meeting or offsite
-* **The Side Space:** a flexible, private, 1,200 square foot outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate and vibe perfect for classes, workshops or outdoor film nights.
+* **Maglianero Cafe &  Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space is perfect for larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and 30ft. ceilings.
+* **The Roof Space:** is a fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and a private bathroom; the Roof Space is an awe inspiring place to host your next meeting or conference.
+* **The Side Space:** a private outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate vibe perfect for classes, workshops or outdoor parties.
 
-The list of the available options and amenities can vary greatly from event to event but some options include private parking behind the building, event planning and management support, security, and A/V.
+The list of the available options and amenities vary from event to event but some options include: private parking behind the building, event planning and management support, security, and A/V. Send us an email for more details and availability.
