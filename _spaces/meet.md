@@ -14,6 +14,12 @@ images:
 
 \
 \
-**The Roof Space** is a fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and a private bathroom; the Roof Space is an awe inspiring place to host your next meeting or conference. 
+**The Roof Space** is a fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. 
 
-Looking for coffee and pastries to fuel your meeting? Maglianero can help with that.
+Complete with: 
+
+* A kitchenette
+* All your A/V needs
+* Break-out work room
+* Private bathroom
+* Coffee and pastry services available from Maglianero, our beloved downstairs cafe
