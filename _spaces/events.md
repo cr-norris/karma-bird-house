@@ -14,7 +14,7 @@ images:
 ---
 ### Over 20 years of hosting, planning, and running events with our friends we've seen these historic spaces support a spectrum of functions and needs. From the practical to the imaginative, we're always curious and excited to see what comes next.
 
-Need space? Our available spaces include:
+Have an idea but need some space? Let's make it happen.
 
 * **Maglianero Cafe &  Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space which commonly hosts larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and a vaulted ceiling.
 * **The Roof Space:** isa fully outfitted 25-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and its own bathroom, the Roof Space is an awe inspiring place to host a next meeting or offsite
