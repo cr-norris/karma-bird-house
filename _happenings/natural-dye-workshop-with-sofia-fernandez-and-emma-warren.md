@@ -3,6 +3,7 @@ layout: happening
 title: Natural Dye Workshop with Sofia Fernandez Diaz and Emma Warren
 location: Maglianero Cafe
 start-date: 2018-09-22T14:00:00.000Z
+end-date: ''
 feature-image:
   - 'https://ucarecdn.com/f5f9bac4-9264-48ab-b106-e6d23e8f06e3~1/nth/0/'
 images:
