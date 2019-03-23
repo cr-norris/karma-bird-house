@@ -3,9 +3,9 @@ layout: space
 title: Work
 order: 1
 description: >-
-  Rent a space and join the Bird House. We offer a variety of private and
-  semi-private workspaces, big and small. Send us a note to see what's
-  available!
+  Our historic converted warehouse is powered by birds who call home to one of
+  our private or semi-private workspaces, people and needs come in all shapes
+  and sizes and so do our work spaces.
 feature-image:
   - 'https://ucarecdn.com/7df824df-844e-4eca-9846-a53e9b1fd030~1/nth/0/'
 images:
