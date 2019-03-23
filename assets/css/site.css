@@ -469,7 +469,7 @@ Slick Rick
 
 .slide {
     display: flex !important;
-    min-height: 50vh;
+    min-height: 65vh;
     width: 100%;
     background-size: cover;
 }
