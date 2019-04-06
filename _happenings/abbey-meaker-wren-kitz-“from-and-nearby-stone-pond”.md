@@ -1,7 +1,7 @@
 ---
 layout: happening
 title: 'Abbey Meaker & Wren Kitz: “From and Nearby Stone Pond”'
-location: Karma Bird House Gallery
+location: The Karma Bird House Gallery
 start-date: 2019-03-02T05:00:00.000Z
 feature-image:
   - 'https://ucarecdn.com/5fa81a9a-2d36-45ea-956b-0665074b8dbd~1/nth/0/'

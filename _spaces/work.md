@@ -3,8 +3,7 @@ layout: space
 title: Work
 order: 1
 description: >-
-  Our converted warehouse is powered by the birds who call home to one of our
-  private or semi-private work spaces for needs of all sizes.
+  Our converted warehouse is powered by a culture of diverse disciplines and businesses. Beautiful open common areas throughout the building along with on going events and gatherings to learn and network.
 feature-image:
   - 'https://ucarecdn.com/7df824df-844e-4eca-9846-a53e9b1fd030~1/nth/0/'
 images:

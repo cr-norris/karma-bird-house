@@ -22,7 +22,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "happening"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Iskra Print Collective", "Karma Bird House Gallery", "Roof Top Space", "The Second Floor"]}
+      - {label: "Location", name: "location", widget: "select", options: ["Maglianero Cafe", "Iskra Print Collective", "The Karma Bird House Gallery", "Roof Top Space", "The Second Floor"]}
       - {label: "Start", name: "start-date", widget: "date"}
       - {label: "End", name: "end-date", widget: "date", required: false}
       - {label: "Time", name: "time", widget: "string", required: false}

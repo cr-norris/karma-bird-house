@@ -19,6 +19,6 @@ images:
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/10/'
   - 'https://ucarecdn.com/b350ceec-88b8-4ec4-9a04-44828447d1a3~12/nth/11/'
 ---
-Climb into the sunset of 2018 at Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors. Throughout the night, a sequence of fleeting popup performances will take shape hourly — folding in layers of music, dance, and visual art. This event is part of Highlight, Burlington’s New Year’s Eve city-wide celebration. Good karma only — a new clear, new year.
+Climb into the sunset of 2018 at The Karma Bird House for Nova, a metamorphic evening for all ages filled with warm sights, glowing sounds, and dream flavors. Throughout the night, a sequence of fleeting popup performances will take shape hourly — folding in layers of music, dance, and visual art. This event is part of Highlight, Burlington’s New Year’s Eve city-wide celebration. Good karma only — a new clear, new year.
 
 Possibilities by: Cleo Flemming, Gahlord Dewald, Giovanna Jager, Julia Maisto, Lauren Costello, Lucy Prouty, Michael Jager, Sage Horsey, Alder Studio, Maglianero, & You.
