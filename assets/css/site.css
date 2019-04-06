@@ -590,6 +590,8 @@ Banners & Text Areas
 #home-banner {
     margin: 4rem 0;
     text-align: center;
+    font-size: 2.4em;
+    line-height: 1.3;
 }
 
 
