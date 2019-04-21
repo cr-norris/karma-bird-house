@@ -48,6 +48,7 @@ collections:
     name: "spaces"
     folder: "_spaces"
     label_singular: "Space"
+    create: true
     editor:
       preview: false
     fields:
@@ -63,6 +64,7 @@ collections:
     name: "slider"
     folder: "_slider"
     label_singular: "Space"
+    create: true
     editor:
       preview: false
     fields:
