@@ -68,9 +68,9 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Link", name: "link", widget: "string"}       
+      - {label: "Title", name: "title", widget: "string" required: false}
+      - {label: "Subtitle", name: "subtitle", widget: "string" required: false}
+      - {label: "Link", name: "link", widget: "string" required: false}       
       - {label: "image", name: "image", widget: "image"}             
 
 
