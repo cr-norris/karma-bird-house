@@ -63,7 +63,7 @@ collections:
   - label: "Slider"
     name: "slider"
     folder: "_slider"
-    label_singular: "Space"
+    label_singular: "Slide"
     create: true
     editor:
       preview: false
