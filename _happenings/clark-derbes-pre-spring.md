@@ -3,7 +3,7 @@ layout: happening
 title: 'Clark Derbes: "Pre-Spring"'
 location: The Karma Bird House Gallery
 start-date: 2019-02-08T17:00:00.000Z
-end-date: 2019-04-15T16:00:00.000Z
+end-date: 2019-05-01T16:00:00.000Z
 feature-image:
   - 'https://ucarecdn.com/102fd0f2-a750-43b2-9e48-c703eb48653b~1/nth/0/'
 vimeo: '316191530'
