@@ -5,6 +5,7 @@
 	{% if slide.link %}
 	    <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
 	    	<h1>{{ slide.text }}</h1>
+	    	<p class="slide-button">{{ slide.button-text }}</o>
 	    </a>
 	{% elsif slide.text %}
 		<div class="row col-xs-10 col-sm-7 slide-text">
