@@ -68,11 +68,12 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Menu Title", name: "menu-title", widget: "string"}
+      - {label: "Slider Position", name: "order", widget: "number"}
       - {label: "Text", name: "text", widget: "string", required: false}
       - {label: "Subtext", name: "Subtext", widget: "string", required: false}
       - {label: "Link", name: "link", widget: "string", required: false}       
-      - {label: "image", name: "image", widget: "image"}             
+      - {label: "Image", name: "image", widget: "image"}             
 
 
 

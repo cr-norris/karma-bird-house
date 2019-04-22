@@ -2,12 +2,16 @@
 
 {% for slide in site.slider | sort:'order' %}
     <div class="slide row" style="background-image: url({{ slide.image }});">
-	{% if slide.foo %}
+	{% if slide.link %}
 	    <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
-	        <h1>{{ slide.title }}</h1>
+	    	<h1>{{ slide.text }}</h1>
 	    </a>
-	{% else %}
-        <a class="button" href="{{ site.basurl }}spaces/">Rent Space</a>
+	{% elsif slide.text %}
+		<div class="row col-xs-10 col-sm-7 slide-text">
+	        <h1>{{ slide.text }}</h1>
+	    </div>
+    {% else %}
+    	<a class="button" href="{{ site.basurl }}spaces/">Rent Space</a>
 	{% endif %}
     </div>
 {% endfor %}
