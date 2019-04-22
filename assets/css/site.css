@@ -490,6 +490,14 @@ a.slide-text:hover {
     margin-top: 3em;
 }
 
+.slide-button {
+    background-color: white !important;
+    color: black;
+    font-size: 1.5em;
+    padding: 1em 1.5em;
+    margin-top: .5em;
+}
+
 .slick-slider {
     display: flex !important;
 }

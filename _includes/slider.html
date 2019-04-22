@@ -3,10 +3,12 @@
 {% for slide in site.slider | sort:'order' %}
     <div class="slide row" style="background-image: url({{ slide.image }});">
 	{% if slide.link %}
-	    <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
-	    	<h1>{{ slide.text }}</h1>
-	    	<p class="slide-button">{{ slide.button-text }}</o>
+	<div class="row col-xs-10 col-sm-7">
+		<h1 class="col-xs-12">{{ slide.text }}</h1>
+	    <a class="button slide-button" href="{{ slide.link }}">	
+				{{ slide.button-text }}
 	    </a>
+	</div>
 	{% elsif slide.text %}
 		<div class="row col-xs-10 col-sm-7 slide-text">
 	        <h1>{{ slide.text }}</h1>
