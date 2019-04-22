@@ -1,6 +1,6 @@
 <div id="slider" class="row half home-slider middle-xs col-xs-12">
 
-{% for slide in site.slider %}
+{% for slide in site.slider | sort:'order' %}
     <div class="slide row" style="background-image: url({{ slide.image }});">
 	{% if slide.foo %}
 	    <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
