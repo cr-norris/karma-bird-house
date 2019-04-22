@@ -71,8 +71,8 @@ collections:
       - {label: "Menu Title", name: "title", widget: "string", hint: "Only visible for you"}
       - {label: "Slider Position", name: "order", widget: "number", hint: "Number 1-20"}
       - {label: "Text", name: "text", widget: "string", required: false, hint: "Your headline"}
-      - {label: "Text Color", name: "text-color", widget: "dropdown", hint: "Only if you have a headline"}
-      - {label: "Button Text", name: "button-text", widget: "string", options: {label: "Yellow", value: "#FFC923"},{ label: "Blue", value: "blue" }, required: false}
+      - {label: "Text Color", name: "text-color", widget: "select", options: {label: "Yellow", value: "#FFC923"}, {label: "Blue", value: "blue"}, hint: "Only if you have a headline"}
+      - {label: "Button Text", name: "button-text", widget: "string", required: false}
       - {label: "Link", name: "link", widget: "string", required: false, hint: "Only if you have a headline" }       
       - {label: "Image", name: "image", widget: "image"}
 
