@@ -1,7 +1,9 @@
 <div id="slider" class="row half home-slider middle-xs col-xs-12">
 
-{% for slide in site.slider | sort:'order' %}
+{% assign slides = site.slider | sort: 'order' %}
+{% for slide in slides %}
     <div class="slide row" style="background-image: url({{ slide.image }});">
+
 	{% if slide.link %}
 	<div class="row col-xs-10 col-sm-9">
 		<h1 class="col-xs-12">{{ slide.text }}</h1>
@@ -9,10 +11,12 @@
 				{{ slide.button-text }}
 	    </a>
 	</div>
+
 	{% elsif slide.text %}
 		<div class="row col-xs-10 col-sm-9 slide-text">
 	        <h1>{{ slide.text }}</h1>
 	    </div>
+
     {% else %}
     	<a class="button" href="{{ site.basurl }}spaces/">Rent Space</a>
 	{% endif %}
