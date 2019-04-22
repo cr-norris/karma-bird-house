@@ -429,13 +429,6 @@ Buttons
     border: none;
 }
 
-.rent {
-    position: absolute;
-    top: 100;
-    font-size: 1.5em;
-    line-height: 1em;
-}
-
 @keyframes color-animation {
     0% {
         background: #FFC923;
@@ -485,7 +478,7 @@ Slick Rick
     color: white;
 }
 
-.slide-text:hover {
+a.slide-text:hover {
     opacity: .75;
 }
 
@@ -504,7 +497,7 @@ Slick Rick
 .home-slider h1 {
     color: white;
     text-align: center;
-    font-size: 6em;
+    font-size: 9em;
 }
 
 .slick-dots {
