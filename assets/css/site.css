@@ -429,6 +429,13 @@ Buttons
     border: none;
 }
 
+.rent {
+    position: absolute;
+    top: 100;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
 @keyframes color-animation {
     0% {
         background: #FFC923;

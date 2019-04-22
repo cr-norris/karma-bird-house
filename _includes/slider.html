@@ -1,15 +1,15 @@
 <div id="slider" class="row half home-slider middle-xs col-xs-12">
+
 {% for slide in site.slider %}
     <div class="slide row" style="background-image: url({{ slide.image }});">
-
-
-
-        <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
-            <h1>{{ slide.title }}</h1>
-            <p class="slide-subtitle">{{ slide.subtitle }}<i class="far fa-long-arrow-right" style="padding-left: 1em;"></i></p>
-        </a>
-
-   
+	{% if slide.foo %}
+	    <a class="row col-xs-10 col-sm-7 slide-text" href="{{ slide.link }}">
+	        <h1>{{ slide.title }}</h1>
+	    </a>
+	{% else %}
+        <a class="button" href="{{ site.basurl }}spaces/">Rent Space</a>
+	{% endif %}
     </div>
 {% endfor %}
+
 </div>

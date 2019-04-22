@@ -17,7 +17,7 @@ $(document).ready(function(){
   dots: true,
   infinite: true,
   autoplay: true,
-  speed: 300,
+  speed: 500,
   slidesToShow: 1,
   adaptiveHeight: true,
   focusonchange: true,
