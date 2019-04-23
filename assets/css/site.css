@@ -472,6 +472,7 @@ Slick Rick
     min-height: 65vh;
     width: 100%;
     background-size: cover;
+    background-position: center;
 }
 
 .slide-text {
@@ -497,6 +498,7 @@ a.slide-text:hover {
     padding: 1em 1.5em;
     margin-top: .5em;
 }
+
 
 .slick-slider {
     display: flex !important;

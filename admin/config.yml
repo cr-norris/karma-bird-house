@@ -68,13 +68,12 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Menu Title", name: "title", widget: "string"}
-      - {label: "Slider Position", name: "order", widget: "number"}
-      - {label: "Text", name: "text", widget: "string", required: false}
+      - {label: "Menu Title", name: "title", widget: "string", hint: "Only visible for you"}
+      - {label: "Slider Position", name: "order", widget: "number", hint: "Number 1-20"}
+      - {label: "Text", name: "text", widget: "string", hint: "Your headline", required: false}
       - {label: "Button Text", name: "button-text", widget: "string", required: false}
-      - {label: "Link", name: "link", widget: "string", required: false}       
-      - {label: "Image", name: "image", widget: "image"}        
-
+      - {label: "Link", name: "link", widget: "string", required: false }       
+      - {label: "Image", name: "image", widget: "image"}
 
 
 
