@@ -9,7 +9,8 @@ description: >-
 feature-image:
   - 'https://ucarecdn.com/7df824df-844e-4eca-9846-a53e9b1fd030~1/nth/0/'
 images:
-  - 'https://ucarecdn.com/9bb64709-4917-4b01-9605-3fa04051c9e3~1/nth/0/'
+  - 'https://ucarecdn.com/93125015-3367-4bea-93e2-dc5c296f8f05~2/nth/0/'
+  - 'https://ucarecdn.com/93125015-3367-4bea-93e2-dc5c296f8f05~2/nth/1/'
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.
 
