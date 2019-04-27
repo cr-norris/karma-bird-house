@@ -7,7 +7,7 @@ description: >-
   businesses. Beautiful open common areas throughout the building along with on
   going events and gatherings to learn and network.
 feature-image:
-  - 'https://ucarecdn.com/7df824df-844e-4eca-9846-a53e9b1fd030~1/nth/0/'
+  - 'https://ucarecdn.com/26233689-70fe-436a-9d40-042b7e537462~1/nth/0/'
 images:
   - 'https://ucarecdn.com/93125015-3367-4bea-93e2-dc5c296f8f05~2/nth/0/'
   - 'https://ucarecdn.com/93125015-3367-4bea-93e2-dc5c296f8f05~2/nth/1/'
