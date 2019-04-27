@@ -3,6 +3,6 @@ title: 'Karma, lobby.'
 order: 1
 text: Good Karma
 image:
-  - 'https://ucarecdn.com/ae25f880-9d53-49ef-b13d-7f908822ea42~1/nth/0/'
+  - 'https://ucarecdn.com/0ff73b78-3c72-463c-bd55-9fffa3658391~1/nth/0/'
 ---
 
