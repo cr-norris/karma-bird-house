@@ -3,9 +3,10 @@ layout: space
 title: Rooftop
 order: 2
 description: >-
-  Epic views inspire big ideas. Private rentable meeting space designed to facilitate meaningful interactions.
+  Epic views inspire big ideas. Private rentable meeting space designed to
+  facilitate meaningful interactions.
 feature-image:
-  - 'https://ucarecdn.com/5b44f6a9-25f4-4fcb-a97d-43e6f75ad232~1/nth/0/'
+  - 'https://ucarecdn.com/2322b7bd-bd61-4085-b714-1c69a4b11220~1/nth/0/'
 images:
   - 'https://ucarecdn.com/b7ef6660-0baa-4800-86cf-8c2ae6cff3cc~4/nth/0/'
   - 'https://ucarecdn.com/b7ef6660-0baa-4800-86cf-8c2ae6cff3cc~4/nth/1/'
