@@ -208,6 +208,7 @@ p a:hover {
 
 .large-text {
     font-size: 6em;
+    line-height: 1em;
     font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 900;
     margin: 4rem 0;
