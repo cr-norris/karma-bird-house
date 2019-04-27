@@ -3,8 +3,7 @@ layout: space
 title: Rooftop
 order: 2
 description: >-
-  Get your head in the clouds and host a meeting, offsite or workshop with 180°
-  panoramic view of Lake Champlain and the Adirondacks. 
+  Epic views inspire big ideas. Private rentable meeting space designed to facilitate meaningful interactions.
 feature-image:
   - 'https://ucarecdn.com/5b44f6a9-25f4-4fcb-a97d-43e6f75ad232~1/nth/0/'
 images:

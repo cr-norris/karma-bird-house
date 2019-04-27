@@ -505,10 +505,12 @@ a.slide-text:hover {
 }
 
 .home-slider h1 {
-    color: #fff;
+    color: black;
     text-align: center;
-    font-size: 9em;
+    font-size: 5em;
     line-height: .8;
+    background-color: white;
+    padding: .25em;
 }
 
 .slick-dots {
@@ -641,6 +643,18 @@ Banners & Text Areas
     list-style: disc;
 }
 
+
+/* 
+
+
+Space 
+
+
+*/
+
+img.space-image  {
+    margin-bottom: 1rem;
+}
 
 /* 
 
