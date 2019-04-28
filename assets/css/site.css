@@ -574,12 +574,12 @@ a.slide-text:hover {
 }
 
 .slick-prev {
-    left: 1em;   
+    left: 1em;
     z-index: 99;
 }
 
 .slick-next {
-    right: 1em;   
+    right: 1em;
     z-index: 99;
 }
 
@@ -599,13 +599,13 @@ Banners & Text Areas
 
 .banner .banner-title {
     margin: 1rem 0;
+    font-size: 2.4em;
+    line-height: 1.3;
 }
 
 #home-banner {
     margin: 4rem 0;
     text-align: center;
-    font-size: 2.4em;
-    line-height: 1.3;
 }
 
 
@@ -653,7 +653,7 @@ Space
 
 */
 
-img.space-image  {
+img.space-image {
     margin-bottom: 1rem;
 }
 
@@ -902,19 +902,26 @@ textarea {
     transition: all .1s ease;
 }
 
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
     color: black;
     opacity: .3;
 }
-::-moz-placeholder { /* Firefox 19+ */
+
+::-moz-placeholder {
+    /* Firefox 19+ */
     color: black;
     opacity: .3;
 }
-:-ms-input-placeholder { /* IE 10+ */
+
+:-ms-input-placeholder {
+    /* IE 10+ */
     color: black;
     opacity: .3;
 }
-:-moz-placeholder { /* Firefox 18- */
+
+:-moz-placeholder {
+    /* Firefox 18- */
     color: black;
     opacity: .3;
 }
@@ -984,6 +991,11 @@ Mobile Styles
 
     .slick-arrow {
         display: none !important;
+    }
+
+    .banner .banner-title {
+        font-size: 1.8rem;
+        line-height: 1.3;
     }
 }
 
