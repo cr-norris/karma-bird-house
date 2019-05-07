@@ -20,8 +20,10 @@ images:
 
 Have an idea but need some space? Let’s make it happen.
 
-* **Maglianero Cafe & Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space is perfect for larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and 12ft. ceilings.
-* **The Roof Space:** is a fully outfitted 20-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and a private bathroom; the Roof Space is an awe inspiring place to host your next meeting or conference.
-* **The Side Space:** a private outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate vibe perfect for classes, workshops or outdoor parties.
+**Maglianero Cafe & Karma Bird House Gallery:** a flexible 1,200 square foot window-lined space is perfect for larger functions like community events, weddings, product launches, talks and lectures. With on-street access, tons of natural light, wood floors, and 12ft. ceilings.
+
+**The Roof Space:** is a fully outfitted 20-person conference room with a panoramic view of Lake Champlain and the Adirondacks. Complete with a small kitchenette, all your A/V needs, a break-out work room and a private bathroom; the Roof Space is an awe inspiring place to host your next meeting or conference.
+
+**The Side Space:** a private outdoor green space in our side alleyway. Soaring ivy-lined walls, and low strung festoon lights create an airy, intimate vibe perfect for classes, workshops or outdoor parties.
 
 The list of the available options and amenities vary from event to event but some options include: private parking behind the building, event planning and management support, security, and A/V. Send us an email for more details and availability.
