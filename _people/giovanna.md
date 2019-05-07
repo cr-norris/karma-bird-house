@@ -1,7 +1,7 @@
 ---
 name: Giovanna Jager
 company: Karma Bird House
-email: giovanna@theKarmabirdhouse.com
+email: giovanna@thekarmabirdhouse.com
 order: 1
 ---
 

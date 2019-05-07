@@ -23,6 +23,7 @@
 
     </div>
 </a>
+
 {% elsif postStartDate >= curDate %}
 <a href="{{ item.url }}" class="large-card row top-xs">
     <img src="{{ item.feature-image }}" class="large-card-image">
@@ -36,6 +37,14 @@
         <div class="large-card-title">{{ item.title }}</div>
     </div>
 </a>
-{% endif %}
 
+{% elsif postStartDate && postEndDate >= curDate %}
+
+<h1>There are no upcomming happenings right now. Check back soon, or sign up for our email and stay in the know.</h1>
+<br>
+<br>
+{% include newsletter.html %}
+{% break %}
+
+{% endif %}
 {% endfor %}

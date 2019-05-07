@@ -162,7 +162,7 @@ h1 {
     font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 800 !important;
     font-size: 3em;
-    line-height: 1em;
+    line-height: 1.2em;
     font-weight: inherit;
     letter-spacing: inherit;
     margin: 0;
@@ -389,7 +389,7 @@ Footer
 
 
 footer {
-    background-color: #00000010;
+    background-color: whitesmoke;
     color: black;
     position: absolute;
     width: 100%;
@@ -838,9 +838,11 @@ Newsletter
 
 
 */
-
-
 #newsletter {
+    background-color: whitesmoke;
+}
+
+footer #newsletter {
     padding: 8em 0 1em 0;
 }
 
