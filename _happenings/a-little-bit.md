@@ -10,4 +10,4 @@ images: ''
 ---
 <a href="http://iskraprint.com/" target="_blank">Iskra Print Collective</a> is a nonprofit community space dedicated to the practice, understanding, and appreciation of the printmaking arts. Each spring and fall, they teach a screenprint class for the community. Come see what the latest class made – great prints by great humans.
 
-This show features work by: Emma Warren, Haley Fenn, Jackson Glover, Kenzie Hines, Lillian Ansell, Lily Lehmuler, Margaux O’Connell, Meaghan Greene, Todd Ciardelli, Will Cotton, and Ziggy Webb.
+This show features work by: Emma Warren, Haley Fenn, Jackson Glover, Kenzie Hines, Lillian Ansell, Lily Lehmuller, Margaux O’Connell, Meaghan Greene, Todd Ciardelli, Will Cotton, and Ziggy Webb.
