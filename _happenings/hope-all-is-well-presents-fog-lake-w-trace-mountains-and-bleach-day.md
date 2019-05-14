@@ -3,7 +3,6 @@ layout: happening
 title: 'Hope all is well presents: Fog Lake'
 location: Karma Bird House Gallery
 start-date: 2019-06-04T14:11:24.268Z
-end-date: ''
 time: '7:00pm'
 feature-image:
   - 'https://ucarecdn.com/6ced4e8d-8ac7-4a2d-808e-62630078b7b3~1/nth/0/'

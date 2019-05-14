@@ -9,7 +9,7 @@ media_library:
    multiple: true
    tabs: file gdrive dropbox instagram
 
-display_url: https://Karmabird.house
+display_url: https://karmabird.house
 
 collections:
   - label: "Happenings"
