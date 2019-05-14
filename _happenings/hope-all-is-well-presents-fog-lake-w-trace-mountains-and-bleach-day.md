@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: 'hope all is well presents: Fog Lake'
+title: 'Hope all is well presents: Fog Lake'
 location: Karma Bird House Gallery
 start-date: 2019-06-04T14:11:24.268Z
 end-date: ''
