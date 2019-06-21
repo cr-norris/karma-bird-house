@@ -842,8 +842,9 @@ Newsletter
 
 
 */
+
 #newsletter {
-    background-color: whitesmoke;
+    background-color: none;
 }
 
 footer #newsletter {
