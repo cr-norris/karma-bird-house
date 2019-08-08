@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: 'Sage Horsey & Co.: Sore Bones'
+title: Sore Bones
 location: Karma Bird House Gallery
 start-date: 2019-08-10T23:27:01.539Z
 end-date: 2019-08-08T23:27:01.558Z
