@@ -2,9 +2,9 @@
 layout: happening
 title: Indigo Workshop with Emma Warren
 location: Karma Bird House Gallery
-start-date: 2019-10-05T18:00:45.949Z
+start-date: 2019-10-12T18:00:45.949Z
 end-date: ''
-time: 10am–1pm
+time: 11am–2pm
 feature-image:
   - 'https://ucarecdn.com/0910efff-9ae6-4e04-8b2a-fdd995ef1931~1/nth/0/'
 ---
