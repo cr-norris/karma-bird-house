@@ -14,4 +14,4 @@ The cost of the workshop includes one canvas tote bag for you to dye. You’re w
 
 **Emma Warren** is a textile and clothing designer based in Burlington, Vermont. Her work focuses on small batch and one of a kind goods that are handmade, hand woven and hand dyed using natural materials and environmentally conscious practices. Her exhibit _Loose Weave_ is on view in the gallery until Saturday, October 5.
 
-$75  per person — limited number of spots, reserve yours [**at this link**](https://www.jasmineparsia.com/Indigo).
+$75  per person — limited number of spots, reserve yours <a href="https://www.jasmineparsia.com/Indigo" target="_blank">**at this link**</a>.
