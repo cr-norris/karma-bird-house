@@ -162,10 +162,14 @@ h1 {
     font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 800 !important;
     font-size: 3em;
-    line-height: 1em;
+    line-height: 1.2em;
     font-weight: inherit;
     letter-spacing: inherit;
     margin: 0;
+}
+
+h1.no-events {
+    margin-bottom: 3rem;
 }
 
 h2 {
@@ -208,6 +212,7 @@ p a:hover {
 
 .large-text {
     font-size: 6em;
+    line-height: 1em;
     font-family: neue-haas-grotesk-display, sans-serif;
     font-weight: 900;
     margin: 4rem 0;
@@ -388,7 +393,7 @@ Footer
 
 
 footer {
-    background-color: #00000010;
+    background-color: whitesmoke;
     color: black;
     position: absolute;
     width: 100%;
@@ -505,10 +510,12 @@ a.slide-text:hover {
 }
 
 .home-slider h1 {
-    color: #fff;
+    color: black;
     text-align: center;
-    font-size: 9em;
+    font-size: 5em;
     line-height: .8;
+    background-color: white;
+    padding: .25em;
 }
 
 .slick-dots {
@@ -571,12 +578,12 @@ a.slide-text:hover {
 }
 
 .slick-prev {
-    left: 1em;   
+    left: 1em;
     z-index: 99;
 }
 
 .slick-next {
-    right: 1em;   
+    right: 1em;
     z-index: 99;
 }
 
@@ -596,13 +603,13 @@ Banners & Text Areas
 
 .banner .banner-title {
     margin: 1rem 0;
+    font-size: 2.4em;
+    line-height: 1.3;
 }
 
 #home-banner {
     margin: 4rem 0;
     text-align: center;
-    font-size: 2.4em;
-    line-height: 1.3;
 }
 
 
@@ -641,6 +648,18 @@ Banners & Text Areas
     list-style: disc;
 }
 
+
+/* 
+
+
+Space 
+
+
+*/
+
+img.space-image {
+    margin-bottom: 1rem;
+}
 
 /* 
 
@@ -824,8 +843,11 @@ Newsletter
 
 */
 
-
 #newsletter {
+    background-color: none;
+}
+
+footer #newsletter {
     padding: 8em 0 1em 0;
 }
 
@@ -887,19 +909,26 @@ textarea {
     transition: all .1s ease;
 }
 
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
     color: black;
     opacity: .3;
 }
-::-moz-placeholder { /* Firefox 19+ */
+
+::-moz-placeholder {
+    /* Firefox 19+ */
     color: black;
     opacity: .3;
 }
-:-ms-input-placeholder { /* IE 10+ */
+
+:-ms-input-placeholder {
+    /* IE 10+ */
     color: black;
     opacity: .3;
 }
-:-moz-placeholder { /* Firefox 18- */
+
+:-moz-placeholder {
+    /* Firefox 18- */
     color: black;
     opacity: .3;
 }
@@ -969,6 +998,11 @@ Mobile Styles
 
     .slick-arrow {
         display: none !important;
+    }
+
+    .banner .banner-title {
+        font-size: 1.8rem;
+        line-height: 1.3;
     }
 }
 

@@ -3,11 +3,18 @@ layout: space
 title: Work
 order: 1
 description: >-
-  Our converted warehouse is powered by a culture of diverse disciplines and businesses. Beautiful open common areas throughout the building along with on going events and gatherings to learn and network.
+  Our converted warehouse is powered by a culture of diverse disciplines and
+  businesses. Beautiful open common areas throughout the building along with on
+  going events and gatherings to learn and network.
 feature-image:
-  - 'https://ucarecdn.com/7df824df-844e-4eca-9846-a53e9b1fd030~1/nth/0/'
+  - 'https://ucarecdn.com/26233689-70fe-436a-9d40-042b7e537462~1/nth/0/'
 images:
-  - 'https://ucarecdn.com/f7dfcbe6-e40b-4e20-b2a0-d8b493efe940~1/nth/0/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/0/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/1/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/2/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/3/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/4/'
+  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/5/'
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.
 

@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: 'hope all is well presents: I Must Have Missed You Someway'
+title: 'Hope all is well presents: I Must Have Missed You Someway'
 location: Maglianero Cafe
 start-date: 2019-02-17T00:00:00.000Z
 end-date: 2019-03-23T20:54:29.588Z

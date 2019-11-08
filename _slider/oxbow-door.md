@@ -1,8 +1,8 @@
 ---
-title: 'Oxbow door.'
+title: Solidarity Big Table
 order: 2
-text: 'Offices'
+text: Offices
 image:
-  - 'https://ucarecdn.com/aa7e8a28-f187-4665-9127-5fc21ac4cadf~1/nth/0/'
+  - 'https://ucarecdn.com/f8f313b3-1b7f-4802-a1d5-c04cdde1a3cf~1/nth/0/'
 ---
 
