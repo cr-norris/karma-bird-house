@@ -1,4 +1,4 @@
-title: The Karma Bird House
+title: Karma Bird House
 year: 2019
 email: hello@karmabird.house
 address: 47 Maple St. Burlington, Vermont
@@ -13,12 +13,12 @@ collections:
     output: true
     permalink: /:title/
   people:
-    output: false  
+    output: false
   directory:
     output: false
   spaces:
     output: true
-    permalink: /:collection/:title/   
+    permalink: /:collection/:title/
   happenings:
     output: true
     permalink: /happening/:title/
@@ -30,7 +30,7 @@ theme:
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
-  
+
 pagination:
   enabled: true
   debug: false
@@ -43,8 +43,8 @@ pagination:
   sort_reverse: true
   category: 'posts'
   tag: ''
-  locale: '' 
-  trail: 
+  locale: ''
+  trail:
     before: 2
     after: 2
   extension: html
