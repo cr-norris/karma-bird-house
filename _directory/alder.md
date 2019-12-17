@@ -1,6 +1,6 @@
 ---
 title: Alder
-space: '224'
+space: 211
 email: hello@alder.studio
 website: 'https://alder.world'
 ---
