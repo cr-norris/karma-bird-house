@@ -1,1 +1,6 @@
-https://karmabirdhouse.netlify.com/* https://karmabirdhouse.co/:splat 301!
+https://karmabird.house/* https://thekarmabirdhouse.com/:splat 301!
+https://www.karmabird.house/* https://thekarmabirdhouse.com/:splat 301!
+https://karmabirdhouse.co/* https://thekarmabirdhouse.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://karmabirdhouse.netlify.com/* https://thekarmabirdhouse.com/:splat 301!
