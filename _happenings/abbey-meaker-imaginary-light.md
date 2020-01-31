@@ -6,7 +6,7 @@ start-date: 2020-02-07T19:19:04.741Z
 end-date: 2020-04-18T18:19:04.759Z
 time: '6:00-9:00pm'
 feature-image:
-  - 'https://ucarecdn.com/1c9385b6-104f-4c36-ba93-e69ff9cea30d~1/nth/0/'
+  - 'https://ucarecdn.com/1102bec5-da62-4e51-971b-c6bd2ff8fecb~1/nth/0/'
 ---
 Abbey Meaker’s solo exhibition “Imaginary Light” explores light and shadow, place and time. Glimmering images reflect back memories of time passing — overgrown fields, moss–covered rocks, the last of the autumnal leaves. Working with analog materials Meaker’s work shifts the shape of fleeting light, materializing memory.
 
