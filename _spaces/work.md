@@ -3,10 +3,9 @@ layout: space
 title: Work
 order: 1
 description: >-
-  Our converted warehouse is a place where professional business and cultural
-  curiosities come together. With a range of spaces for business small and
-  large, along with beautiful open common areas and ongoing events to learn and
-  network.
+  A place where professional businesses and cultural curiosities come together.
+  With a range of spaces for businesses small and large, along with beautiful
+  open common areas and ongoing events to learn and network.
 feature-image:
   - 'https://ucarecdn.com/26233689-70fe-436a-9d40-042b7e537462~1/nth/0/'
 images:
