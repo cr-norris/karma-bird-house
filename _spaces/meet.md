@@ -3,7 +3,7 @@ layout: space
 title: Rooftop
 order: 2
 description: >-
-  Elevate your perspective with views that inspire big ideas.The Karma Bird
+  Elevate your perspective with views that inspire big ideas. The Karma Bird
   House offers a private rentable meeting space designed to facilitate
   meaningful interactions. 
 feature-image:
