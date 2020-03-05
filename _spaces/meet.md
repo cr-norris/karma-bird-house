@@ -3,8 +3,9 @@ layout: space
 title: Rooftop
 order: 2
 description: >-
-  Epic views inspire big ideas. Private rentable meeting space designed to
-  facilitate meaningful interactions.
+  Elevate your perspective with views that inspire big ideas.The Karma Bird
+  House offers a private rentable meeting space designed to facilitate
+  meaningful interactions. 
 feature-image:
   - 'https://ucarecdn.com/2322b7bd-bd61-4085-b714-1c69a4b11220~1/nth/0/'
 images:
