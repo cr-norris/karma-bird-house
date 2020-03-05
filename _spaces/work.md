@@ -37,8 +37,9 @@ There are number of additional options, including:
 * Office cleaning
 * Rooftop space access
 
-## \
-In addition to private spaces, we also offer Instant Karma: monthly dedicated desk rentals in an open office space.
+
+
+### In addition to private spaces, we also offer Instant Karma: monthly dedicated desk rentals in an open office space.
 
 Instant Karma is a perfect spot for solo small business startups, consultancy services or a place for people working in Burlington for a few months, who want community connection and creative energy as part of their experience. These monthly desk rentals include:
 
