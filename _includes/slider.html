@@ -1,15 +1,19 @@
-<div id="slider" class="row half home-slider middle-xs col-xs-12">
+<!-- Add: id="slider" to first div to reinstantiate slider function -->
+
+<div class="row half home-slider middle-xs col-xs-12">
 
 {% assign slides = site.slider | sort: 'order' %}
 {% for slide in slides %}
-    <div class="slide row" style="background-image: url({{ slide.image }});">
+  <div class="slide row" style="background-image: url({{ slide.image }});">
 
 	{% if slide.link %}
 	<div class="row col-xs-10 col-sm-9">
-		<h1 class="col-xs-12">{{ slide.text }}</h1>
-	    <a class="button slide-button" href="{{ slide.link }}">	
-				{{ slide.button-text }}
-	    </a>
+    <div class="row">
+      <h1>{{ slide.text }}</h1>
+    </div>
+    <div class="row">
+      <a class="button slide-button" href="{{ slide.link }}">{{ slide.button-text }}</a>
+    </div>
 	</div>
 
 	{% elsif slide.text %}

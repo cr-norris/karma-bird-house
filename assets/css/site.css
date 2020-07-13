@@ -71,10 +71,10 @@ img {
     height: 100%;
 }
 
-/* 
+/*
 
 
-Section ID 
+Section ID
 
 
 */
@@ -267,7 +267,7 @@ hr {
     border: .5px solid #00000015;
 }
 
-/* 
+/*
 
 
 Structural
@@ -301,7 +301,7 @@ Structural
 }
 
 
-/* 
+/*
 
 
 Site Title
@@ -318,10 +318,10 @@ Site Title
     font-weight: 800;
 }
 
-/* 
+/*
 
 
-Navigation 
+Navigation
 
 
 */
@@ -429,41 +429,32 @@ Buttons
     font-weight: 800;
     padding: 1em;
     margin: 1rem 0 !important;
-    background-color: black !important;
+    background-color: black;
     color: white;
     border: none;
 }
 
+@-webkit-keyframes animation {
+  0% { background: #FFC923;}
+  20% { background: #F58A23; }
+  40% { background: #E65264; }
+  60% { background: #E66FC1; }
+  80% { background: #4FBC48; }
+  100% { background: #3FC0FF; }
+}
+
 @keyframes color-animation {
-    0% {
-        background: #FFC923;
-    }
-
-    20% {
-        background: #F58A23;
-    }
-
-    40% {
-        background: #E65264
-    }
-
-    60% {
-        background: #E66FC1
-    }
-
-    80% {
-        background: #4FBC48
-    }
-
-    100% {
-        background: #3FC0FF
-    }
+    0% { background: #FFC923;}
+    20% { background: #F58A23; }
+    40% { background: #E65264; }
+    60% { background: #E66FC1; }
+    80% { background: #4FBC48; }
+    100% { background: #3FC0FF; }
 }
 
 .button:hover {
     animation: color-animation 1s infinite;
 }
-
 
 
 /*
@@ -497,7 +488,7 @@ a.slide-text:hover {
 }
 
 .slide-button {
-    background-color: white !important;
+    background-color: white;
     color: black;
     font-size: 1.5em;
     padding: 1em 1.5em;
@@ -649,10 +640,10 @@ Banners & Text Areas
 }
 
 
-/* 
+/*
 
 
-Space 
+Space
 
 
 */
@@ -661,10 +652,10 @@ img.space-image {
     margin-bottom: 1rem;
 }
 
-/* 
+/*
 
 
-Happening 
+Happening
 
 
 */
@@ -714,10 +705,10 @@ Happening
     color: lightgray;
 }
 
-/* 
+/*
 
 
-Cards 
+Cards
 
 
 */
@@ -805,10 +796,10 @@ card:after {
     min-height: 30vh;
 }
 
-/* 
+/*
 
 
-Directory 
+Directory
 
 
 */
@@ -835,10 +826,10 @@ a.directory-listing:hover {
 }
 
 
-/* 
+/*
 
 
-Newsletter 
+Newsletter
 
 
 */
@@ -955,9 +946,9 @@ select:-webkit-autofill:focus {
 
 
 
-/* 
+/*
 
-Mobile Styles 
+Mobile Styles
 
 */
 

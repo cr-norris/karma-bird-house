@@ -34,6 +34,18 @@ $('.button').mouseenter(function() {
     })
 });
 
+$('.button').mouseleave(function() {
+    $div.css({
+        "background-color": "black"
+    })
+});
+
+$('.slide-button').mouseleave(function() {
+    $div.css({
+        "background-color": "white"
+    })
+});
+
 
 $(".close").click(function() {
     $('.outside').toggleClass('in');
@@ -102,31 +114,31 @@ $("video").hover(function() {
 
 $('.nav-logo').hover(function () {
     var color = [
-        "#FFC923", 
-        "#E66FC1", 
-        "#E65264", 
-        "#4FBC48", 
-        "#3FC0FF", 
-        "#F58A23", 
+        "#FFC923",
+        "#E66FC1",
+        "#E65264",
+        "#4FBC48",
+        "#3FC0FF",
+        "#F58A23",
         ];
-    
+
     var square =[
-        "rect#1", 
-        "rect#2", 
-        "rect#3", 
-        "rect#4", 
-        "rect#5", 
+        "rect#1",
+        "rect#2",
+        "rect#3",
+        "rect#4",
+        "rect#5",
         "rect#6",
         "rect#7",
         "rect#8",
         "rect#9"]
-    
+
     var randSquare = square[Math.floor(Math.random() * square.length)];
     var randColor = color[Math.floor(Math.random() * color.length)];
 
     $(randSquare).each(function () {
         $(randSquare).attr('fill', randColor);
     })
-}); 
+});
 
 */
