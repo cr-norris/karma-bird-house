@@ -38,6 +38,4 @@ There are number of additional options, including:
 
 We work hard to make Karma a healthy and happy space – with frequent cleanings, required face coverings in shared spaces, and more. If you have any questions, please reach out!
 
-<iframe src="https://player.vimeo.com/video/437897268" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/437897268"></a> </p>
+<iframe src="https://player.vimeo.com/video/437897268" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/437897268"></a> </p>
