@@ -9,13 +9,13 @@ description: >-
 feature-image:
   - 'https://ucarecdn.com/26233689-70fe-436a-9d40-042b7e537462~1/nth/0/'
 images:
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/0/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/1/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/2/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/3/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/4/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/5/'
-  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/6/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/0/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/1/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/2/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/3/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/4/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/5/'
+  - 'https://ucarecdn.com/5f92d4f8-a93e-45dd-af47-d91bb93c3ea2~7/nth/6/'
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.
 
@@ -38,5 +38,3 @@ There are a number of additional options, including:
 * Rooftop space access
 
 We work hard to make Karma a healthy and happy space – with frequent cleanings, required face coverings in shared spaces, and more. If you have any questions, please reach out!
-
-<iframe src="https://player.vimeo.com/video/437897268" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/437897268"></a> </p>
