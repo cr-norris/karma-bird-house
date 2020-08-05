@@ -19,7 +19,7 @@ images:
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.
 
-<iframe src="https://player.vimeo.com/video/437897268" width="540" height="260" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/437897268"></a> </p>
+<iframe src="https://player.vimeo.com/video/437897268" width="600" height="320" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> <p><a href="https://vimeo.com/437897268"></a> </p>
 
 Our dog-friendly spaces range in size from one-person studios to offices with their own conference rooms and kitchenettes for larger groups. The building is secure and safe with 24-hour digital key fob access for building tenants. Each floor has a buzzing shared common area perfect for a quick meeting or change of scenery from your office. Other standard amenities include:
 
