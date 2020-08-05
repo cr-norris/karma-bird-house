@@ -31,7 +31,7 @@ Our dog-friendly spaces range in size from one-person studios to offices with th
 * Showers and locker rooms
 * Color copier and printer
 
-There are number of additional options, including:
+There are a number of additional options, including:
 
 * On-site parking 
 * Office cleaning
