@@ -9,12 +9,13 @@ description: >-
 feature-image:
   - 'https://ucarecdn.com/26233689-70fe-436a-9d40-042b7e537462~1/nth/0/'
 images:
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/0/'
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/1/'
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/2/'
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/3/'
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/4/'
-  - 'https://ucarecdn.com/bc9870b1-d0ff-46f0-aca4-a2cd20fa0877~6/nth/5/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/0/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/1/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/2/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/3/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/4/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/5/'
+  - 'https://ucarecdn.com/1d7ffecb-1bc7-48b0-9bb7-02116ed287c5~7/nth/6/'
 ---
 ### The heart of Karma is our community of people and companies who energize the building with an interdisciplinary culture and a common creative spirit.
 
