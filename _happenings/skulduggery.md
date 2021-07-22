@@ -9,4 +9,4 @@ feature-image:
 ---
 _Skulduggery_ by David Wien features graphite drawings, woodcuts, and a group of screenprints (made in collaboration with [**Iskra Print Collective**](https://www.iskraprint.com/)). 
 
-****[**David Wien**](https://www.davidwien.com/) is a painter, sculptor, and printmaker originating from southern Vermont.
+****[**David Wien**](www.davidwien.com) is a painter, sculptor, and printmaker originating from southern Vermont.
