@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: Skulduggery
+title: 'David Wien: Skulduggery'
 location: Karma Bird House Gallery
 start-date: 2021-07-03T02:18:05.878Z
 end-date: 2021-07-28T02:18:05.889Z
