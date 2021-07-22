@@ -3,7 +3,7 @@ layout: happening
 title: Shelter Cultivation Project
 location: Karma Bird House Gallery
 start-date: 2021-08-06T01:53:53.854Z
-end-date: 2021-11-02T01:53:53.871Z
+end-date: 2021-11-01T01:53:53.871Z
 feature-image:
   - 'https://ucarecdn.com/7fd8e18f-e22e-4a81-bec6-acca49c0b420~1/nth/0/'
 ---
