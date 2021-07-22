@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: 'Blue Alchemy: Renee Greenlee'
+title: 'Renee Greenlee: Blue Alchemy'
 location: Karma Bird House Gallery
 start-date: 2021-04-30T19:02:48.417Z
 end-date: 2021-05-31T19:02:48.425Z
