@@ -2,7 +2,7 @@
 layout: happening
 title: 'Vanessa Compton: Grandmother'
 location: Karma Bird House Gallery
-start-date: 2021-11-04T13:04:54.626Z
+start-date: 2021-11-05T13:04:54.626Z
 end-date: 2021-12-09T14:04:54.648Z
 feature-image:
   - 'https://ucarecdn.com/c8a6e447-7b6d-42c8-b2fe-7627778277d1~1/nth/0/'
