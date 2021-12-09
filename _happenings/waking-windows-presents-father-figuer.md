@@ -11,3 +11,5 @@ feature-image:
 Join us for an evening of warmth this December as Father Figuer celebrates the arrival of their sophomore record “Jack of all Fruits”. They’re honored to be accompanied by the budding work of Remi Russin, Kenzie Hines, Mia Schaumburg, Cooper Gardner, Nick Tansey, and Elise Albertini.
 
 $10 tickets, available via [Waking Windows](https://www.wakingwindows.com/shows). Masks required.
+
+This show is presented by Waking Windows, with support from [Foam Brewers](https://www.foambrewers.com/).
