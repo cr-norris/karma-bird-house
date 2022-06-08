@@ -1,8 +1,6 @@
 ---
 layout: happening
-title: >-
-  John Douglas: A Life Well Lived. A retrospective of his art and a celebration
-  of his life.
+title: 'John Douglas: A Life Well Lived'
 location: Karma Bird House Gallery
 start-date: 2022-06-25T20:09:03.425Z
 end-date: 2022-08-24T20:09:03.439Z
