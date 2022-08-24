@@ -8,9 +8,9 @@ feature-image:
   - 'https://ucarecdn.com/1f081604-fa46-45b3-8216-fed1fe42d292~1/nth/0/'
 images: ''
 ---
-**_Anywhere from Anywhere_** presents a collection of drawings by 20+ artists from across the country. These disparate approaches to the process of drawing highlight unique lines, creating resonance and forming new meanings, new ideas, new ways of making. Many parts create a new whole. Through interaction grows understanding. There is no beginning and no end to the path amongst these works. In the words of Anni Albers, “You can go anywhere from anywhere”.
+_**Anywhere from Anywhere**_ presents a collection of drawings by 20+ artists from across the country. These disparate approaches to the process of drawing highlight unique lines, creating resonance and forming new meanings, new ideas, new ways of making. Many parts create a new whole. Through interaction grows understanding. There is no beginning and no end to the path amongst these works. In the words of Anni Albers, “You can go anywhere from anywhere”.
 
-On view September 1 through December 8th. Opening reception September 2 from 6–9pm
+On view September 2 through December 1st. Opening reception September 2 from 6–9pm
 
 Works by:
 
