@@ -3,7 +3,7 @@ layout: happening
 title: 'RIP: Relationships In Progress'
 location: Karma Bird House Gallery
 start-date: 2023-01-13T16:23:32.830Z
-end-date: 2023-02-03T16:23:32.835Z
+end-date: 2023-03-26T15:23:32.835Z
 time: ''
 feature-image:
   - 'https://ucarecdn.com/1e5e144b-194c-4742-9631-75fa35108b72~1/nth/0/'
