@@ -2,7 +2,7 @@
 layout: happening
 title: See You Among Mistakes
 location: Karma Bird House Gallery
-start-date: 2023-01-01T16:18:53.545Z
+start-date: 2022-12-15T16:18:53.545Z
 end-date: 2023-01-28T16:18:53.554Z
 feature-image:
   - 'https://ucarecdn.com/51126102-d12f-4b9f-8e3e-4464ceee59c4~1/nth/0/'
