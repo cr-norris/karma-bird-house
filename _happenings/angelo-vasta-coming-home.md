@@ -5,7 +5,7 @@ location: Karma Bird House Gallery
 start-date: 2023-07-07T16:06:59.851Z
 end-date: 2023-08-27T16:06:59.862Z
 feature-image:
-  - 'https://ucarecdn.com/660e59da-0653-476f-b593-63744f8ea9d1~1/nth/0/'
+  - 'https://ucarecdn.com/71344162-a13f-4c26-acce-ffd9cf6948f3~1/nth/0/'
 ---
 [**Angelo Vasta**](https://www.angelovasta.me/) is an Italian filmmaker and cinematographer based in Brooklyn, New York. He mostly works with dance companies and art institutions, creating short films, behind-the-scenes and promotional videos. Since 2018 he has been a regular contributor for the New York Times (Dance Section) for which he has shot dance companies such as New York City Ballet, American Ballet Theater, Batsheva, Trisha Brown amongst others.
 
