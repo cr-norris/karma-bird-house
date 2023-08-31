@@ -8,7 +8,8 @@ feature-image:
   - 'https://ucarecdn.com/80d3510d-a34e-48c3-8f32-87b06bc5f08e~1/nth/0/'
 images: ''
 ---
-Join us for the opening reception of 60 Years of Bread & Puppet on Friday, September 8th from 6–9pm! We will be joined by Peter Schumann for a Fiddle Rant, and Bread & Puppet Press for a silkscreen workshop with [Iskra Print Collective](https://www.iskraprint.com/). Works on exhibition span the 60 years of Bread & Puppet history, including puppets, prints, and painted banners. There will be Bread & Puppet prints available for sale during the opening reception. Bread & Puppet will be providing their bread and aioli.This event is free and open to all!
+Join us for the opening reception of _60 Years of Bread & Puppet_ on Friday, September 8th from 6–9pm! We will be joined by Peter Schumann for a Fiddle Rant, and Bread & Puppet Press for a silkscreen workshop with [Iskra Print Collective](https://www.iskraprint.com/). Works on exhibition span the 60 years of Bread & Puppet history, including puppets, prints, and painted banners. There will be Bread & Puppet prints available for sale during the opening reception. Bread & Puppet will be providing their bread and aioli.This event is free and open to all!
 
-More information on Bread & Puppet: [here](https://breadandpuppet.org/)\
-More information on Iskra Print Collective: [here](https://www.iskraprint.com/)
+More information on Bread & Puppet: [**here**](https://breadandpuppet.org/)****
+
+More information on Iskra Print Collective: [**here**](https://www.iskraprint.com/)****
