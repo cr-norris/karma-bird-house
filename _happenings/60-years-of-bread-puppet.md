@@ -9,9 +9,11 @@ feature-image:
 images:
   - 'https://ucarecdn.com/ae429421-cb56-4e82-a4d3-db11da6cc8a9~1/nth/0/'
 ---
-Join us for the opening reception of _60 Years of Bread & Puppet_ on Friday, September 8th from 6–9pm! We will be joined by Peter Schumann for a Fiddle Rant, and Bread & Puppet Press for a silkscreen workshop with [Iskra Print Collective](https://www.iskraprint.com/). Works on exhibition span the 60 years of Bread & Puppet history, including puppets, prints, and painted banners. There will be Bread & Puppet prints available for sale during the opening reception. Bread & Puppet will be providing their bread and aioli.This event is free and open to all!
+Join us for the opening reception of _60 Years of Bread & Puppet_ on Friday, September 8th from 6–9pm! We will be joined by Peter Schumann for a Fiddle Rant, and Bread & Puppet Press for a silkscreen workshop with [Iskra Print Collective](https://www.iskraprint.com/). Works on exhibition span the 60 years of Bread & Puppet history, including puppets, prints, and painted banners. There will be Bread & Puppet prints available for sale during the opening reception. Bread & Puppet will be providing their bread and aioli. This event is free and open to all!
 
 The exhibition is on view Monday – Saturday, from 8:00am – 3:00pm.
+
+The exhibition is free of charge and open to all. The gallery is wheelchair accessible.
 
 There is a shop of Bread & Puppet prints and calendars in the gallery, purchases can be made through Kestrel Cafe.
 
