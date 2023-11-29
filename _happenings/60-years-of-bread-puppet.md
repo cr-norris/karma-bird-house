@@ -21,4 +21,4 @@ More information on Bread & Puppet: [**here**](https://breadandpuppet.org/)
 
 More information on Iskra Print Collective: [**here**](https://www.iskraprint.com/)
 
-This project is supported in part by the Vermont Arts Council, the National Endowment for the Arts, and the Vermont Community Foundation.
+This project is supported in part by the Vermont Arts Council, the National Endowment for the Arts, and the Vermont Community Foundation. With additional support from Shelter Cultivation.
