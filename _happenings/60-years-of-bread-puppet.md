@@ -3,7 +3,7 @@ layout: happening
 title: 60 Years of Bread & Puppet
 location: Karma Bird House Gallery
 start-date: 2023-09-08T15:29:48.521Z
-end-date: 2023-12-01T16:29:48.530Z
+end-date: 2023-12-09T16:29:48.530Z
 feature-image:
   - 'https://ucarecdn.com/80d3510d-a34e-48c3-8f32-87b06bc5f08e~1/nth/0/'
 images:
@@ -20,3 +20,5 @@ There is a shop of Bread & Puppet prints and calendars in the gallery, purchases
 More information on Bread & Puppet: [**here**](https://breadandpuppet.org/)
 
 More information on Iskra Print Collective: [**here**](https://www.iskraprint.com/)
+
+This project is supported in part by the Vermont Arts Council, the National Endowment for the Arts, and the Vermont Community Foundation.
