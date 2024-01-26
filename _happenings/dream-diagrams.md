@@ -2,8 +2,8 @@
 layout: happening
 title: Daydream Diagrams
 location: Karma Bird House Gallery
-start-date: 2023-12-15T04:07:52.169Z
-end-date: 2024-02-02T04:07:52.175Z
+start-date: 2023-12-14T04:07:52.169Z
+end-date: 2024-02-01T04:07:52.175Z
 feature-image:
   - 'https://ucarecdn.com/09dca0c9-a0ea-491b-9747-a432cf7dbf0f~1/nth/0/'
 ---
