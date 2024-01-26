@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: Dream Diagrams
+title: Daydream Diagrams
 location: Karma Bird House Gallery
 start-date: 2023-12-15T04:07:52.169Z
 end-date: 2024-02-02T04:07:52.175Z
