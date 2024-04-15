@@ -14,8 +14,8 @@ We’re technically more connected than ever before in human history ... but why
 
 Bring along a small item that represents something that uniquely inspires joy to you. That favorite subject of yours to talk about, but the moment to do so doesn’t often present itself. We may have had show-and-tell moments like this in school when we were young, but why don’t we do that anymore? Community looks different now, let’s work towards figuring out what that means for us all, together. 
 
-_****_[_**Just RSVP at this link**_](https://docs.google.com/forms/d/e/1FAIpQLSc_bHk81nIniL1WRJqDLBRLnrItCzzTjLAsTiJJWeZECkCh2Q/viewform), the event is limited to 40 people.
+_****_[_*Just RSVP at this link*_](https://docs.google.com/forms/d/e/1FAIpQLSc_bHk81nIniL1WRJqDLBRLnrItCzzTjLAsTiJJWeZECkCh2Q/viewform), the event is limited to 40 people.
 
 We look forward to seeing you.
 
-More information about this event: [_**here**_](https://solidarityofunbridledlabour.com/town-square/)_****_
+More information about this event: [_here_](https://solidarityofunbridledlabour.com/town-square/)__
